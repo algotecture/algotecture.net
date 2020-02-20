@@ -1,6 +1,6 @@
-# algotecture
+# AlgoTecture
 
-The [AlgoTecture](https://algotecture.com/ "algotecture's Homepage") radically simplifies collaborative design, construction and operation processes by providing an intelligent framework.
+The [AlgoTecture](https://algotecture.com/ "AlgoTecture's Homepage") radically simplifies collaborative design, construction and operation processes by providing an intelligent framework.
 
 From the point of view of the user, the sophisticated performative design process becomes commonplace in the algorithmic environment in relation architecture and engineering, as well as accelerating information exchange. An efficient design explicitly processes interoperability strategies and methods, where the choice of interoperability strategy has a significant impact on the implementation of interdisciplinary processes in the algorithmic sustainability concept and should therefore be analyzed and evaluated mindfully through further benchmarking. A wrong interpretation of the proposed methods can increase considerably risks of misalignment and consequently increase the cost of the design processes and construction.
 
