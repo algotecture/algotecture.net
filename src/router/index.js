@@ -11,9 +11,9 @@ const routes = [
     component: Home
   },
   {
-    path: '/ethics',
-    name: 'Ethics',
-    component: () => import('../views/Ethics.vue')
+    path: '/about',
+    name: 'About',
+    component: () => import('../views/About.vue')
   }
 ]
 

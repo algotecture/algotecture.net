@@ -1,14 +1,14 @@
 <template>
     <v-container grid-list-lg>
         <v-layout row>
-            <v-flex xs12 class="text-xs-center display-1 font-weight-black my-5 color blue lighten-5">Usecases</v-flex>
+            <v-flex xs12 class="text-xs-center display-1 font-weight-black my-5 color red lighten-5">Usecases</v-flex>
         </v-layout>
         <v-layout row wrap>
             <v-flex xs12 sm12 md4>
                 <v-card>
                     <v-layout fill-height>
                         <v-flex xs12 align-end flexbox>
-                            <span class="headline white--text color blue dark pa-2"></span>
+                            <span class="headline white--text color red dark pa-2">CARPARK UTILISATION</span>
                         </v-flex>
                     </v-layout>
                     <v-card-title primary-title>
@@ -34,7 +34,7 @@
                 <v-card>
                     <v-layout fill-height>
                         <v-flex xs12 align-end flexbox>
-                            <span class="headline white--text color blue dark pa-2">MODULAR CONSTRUCTION</span>
+                            <span class="headline white--text color red dark pa-2">MODULAR CONSTRUCTION</span>
                         </v-flex>
                     </v-layout>
                     <v-card-title primary-title>
@@ -60,7 +60,7 @@
                 <v-card>
                     <v-layout fill-height>
                         <v-flex xs12 align-end flexbox>
-                            <span class="headline white--text color blue dark pa-2">PtoP MACHINE LEARNING</span>
+                            <span class="headline white--text color red dark pa-2">NETWORK MACHINE LEARNING</span>
                         </v-flex>
                     </v-layout>
                     <v-card-title primary-title>

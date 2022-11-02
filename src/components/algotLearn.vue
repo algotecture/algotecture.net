@@ -61,7 +61,7 @@ export default {
     items: [
       {
         src: require('@/assets/space-coherence.png'),
-        button: { mobile: 'Download Toolkit', toolkit: 'Toolkit', bbox: 'climatemodel' }
+        button: { mobile: 'Coming soon toolkit', toolkit: 'Toolkit', bbox: 'climatemodel' }
       }
     ]
   }),
