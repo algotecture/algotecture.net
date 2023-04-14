@@ -1,0 +1,10 @@
+<Arguments>
+	<Converter pause="off">
+		<Target instance="test" />
+		<Source>
+		  <File name="L:\Converter\_input\testIfcSpace.ifc"/>
+		</Source>
+	</Converter>
+	<Mode type="ifc" />
+	
+</Arguments>
