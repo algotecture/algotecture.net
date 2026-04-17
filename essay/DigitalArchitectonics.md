@@ -144,106 +144,39 @@ def step_iter(r, M2, tp, alpha, tol, maxIter):
 They made a trillion worth company with this thing.
 ___
 
-Artificial intelligence is not about learning, it is an inversion of it.
-
-00:16:53.920 --> 00:16:55.160
-It is about forgetting.
-
-00:16:55.360 --> 00:16:57.240
+**Artificial Intelligence** is not about **LEARNING**, it is an inversion of it. 
+It is about **FORGETTING**.
 It is an important result of our research.
+**LEARNING** requires sufficient submitting to machines,
+**FORGETTING** enables us to liberate from them.
 
-00:16:57.240 --> 00:16:59.800
-Learning requires sufficient submitting to machines.
+Fritz Haller: *the confidence in the **INVERSION** of things to the
+very **ELEMENT** and the liberating power of it.*
 
-00:16:59.800 --> 00:17:01.920
-Forgetting enables us to liberate from them.
+The architect projected to the **jointing things** of today.
 
-00:17:02.880 --> 00:17:09.193
-This is what I learnt from my master Fritz Haller, the confidence in the inversion of things to the
-
-00:17:09.193 --> 00:17:12.000
-very element and the liberating power of it.
-
-00:17:13.280 --> 00:17:16.880
-It's very complicated to get, but that's the point we always worked on.
-
-00:17:17.960 --> 00:17:22.080
-At the end of my career, I'm happy to present as right as editor a book on this topic.
-
-00:17:22.080 --> 00:17:24.840
-This is what we are presenting today in our book launch.
-
-00:17:25.760 --> 00:17:32.040
-Beautiful 3 1/2 kilo book in all colours and silver.
-
-00:17:32.720 --> 00:17:39.960
-Silver background, but Salah the architect projected to the jointing things of the day.
-
-00:17:39.960 --> 00:17:47.760
 So it's a transformation of his architecture from the 60s and the 80s to the conditions of today.
 
-00:17:52.600 --> 00:17:55.320
+___
 AI is not an invention of the last five or 20 years.
-
-00:17:55.320 --> 00:18:00.680
 AI is not the monster machines and the heavy infrastructure of the day which demands submission.
-
-00:18:01.000 --> 00:18:04.280
 These machines are an inconvenient distortion of our recent time.
+They will go away. AI is not new and AI is not big.
 
-00:18:04.280 --> 00:18:05.480
-They will go away.
-
-00:18:05.480 --> 00:18:07.760
-AI is not new and AI is not big.
-
-00:18:09.240 --> 00:18:15.966
 AI shows the term from set theory to group theory with Galois back in 1832, from stochastic to
-
-00:18:15.966 --> 00:18:18.400
 probabilistic by Markov from 1913.
-
-00:18:18.920 --> 00:18:26.110
 This is how he went with his poem from Pushkin and counted all the characters like Google is now
-
-00:18:26.110 --> 00:18:26.560
 doing.
 
-00:18:27.400 --> 00:18:32.784
-It's extremely hard to find confidence in these references to AI because most of today's research
+Now I know that AI thinking starts around 1900.
 
-00:18:32.784 --> 00:18:35.560
-communities aggressively ignore their own sources.
-
-00:18:36.200 --> 00:18:40.120
-The citation spread sideway but almost never reach back in time.
-
-00:18:40.440 --> 00:18:45.160
-It took me at least 15 years to get around, and I'm angry about my famous colleagues about that.
-
-00:18:46.000 --> 00:18:46.320
-Really.
-
-00:18:48.320 --> 00:18:49.440
-This took me 15 years.
-
-00:18:49.440 --> 00:18:51.840
-It's really bad, you know, bad manners.
-
-00:18:53.560 --> 00:19:00.560
-How I know that AI thinking starts around now, as I know that AI thinking starts around 1900.
-
-00:19:01.720 --> 00:19:05.520
 All the 20th century is full of AI and now it's getting very interesting.
 
-00:19:06.600 --> 00:19:10.400
 All it's architecture and masterpieces are of AI thinking.
 
-00:19:10.400 --> 00:19:18.800
-They are screens of all the others, not they're screening the other architectures, not you.
+They are screens of ALL the others NOT. 
 
-00:19:18.800 --> 00:19:28.222
-Remember the architecture before Shinkles, Emperor Gagne, Bexton, Ruskin, Wagner, The 20th century
+Do you Remember the architecture before? Shinkles, Emperor Gagne, Bexton, Ruskin, Wagner, The 20th century
 
 00:19:28.222 --> 00:19:34.760
 is all that not after another 10 years, another level of saturation.
