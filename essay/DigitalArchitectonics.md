@@ -40,40 +40,72 @@ theory.
 ### Fritz Haller
 the Swiss architect  Fritz Haller -- the **MANIERIST** among **Functionalists**. 
 He has turned every known construction around and created his generic **NODE**
-wich is **ALL** of the known constructions not.
+wich is **ALL** of the known constructions **NOT**.
 
-00:15:24.720 --> 00:15:25.200
-Beautiful.
-
-00:15:27.600 --> 00:15:30.240
 I learnt from him to trust in this inversion.
+Therefore I'm therefore I'm reading computers as and every machine **NOT**.
 
-00:15:30.240 --> 00:15:35.400
-Therefore I'm therefore I'm reading computers as and every machine not.
-
-00:15:36.520 --> 00:15:37.680
-That's a complicated term.
-
-00:15:38.880 --> 00:15:41.440
-This is Austria and Winsingen.
-
-00:15:43.240 --> 00:15:51.511
-Not not like Everything, Everywhere, all at once, a turn towards all, not strikingly complicated to
-
-00:15:51.511 --> 00:15:53.600
+A **NOT** like Everything, Everywhere, all at Once. a turn towards all, not strikingly complicated to
 get, but it is essential.
 
-00:15:53.840 --> 00:15:58.600
-It is a .0, an atom, an element, a Renaissance architecture is born from it.
+It is a POINT, a ZERO, an ATOM, an ELEMENT, a RENAISSANCE. 
 
-00:16:00.160 --> 00:16:03.880
-It took me at least three years to grasp the significance of this simple code.
+**ARCHITECTURE is born from it.**
 
-00:16:04.280 --> 00:16:05.880
-This is the our AI code.
+It took me at least three years to grasp the significance of this simple code - SOM by Kohonen:
 
-00:16:05.880 --> 00:16:11.160
-We, we, we cultivated all the time.
+```mathematica
+For[u = 0, u <= ite, u++,
+  sig = N[Nest[(1 - (u/(ite + 1))) # &, Max[dim]/2, 1]];
+  inputN = RandomChoice[vec, sel];
+  bmus = Flatten@Nearest[weights -> {"Index"}, inputN, 1];
+  ns = Exp[-(distances[#])^2/(2 sig^2)] & /@ bmus;
+  allNS = Total@ns;
+  nst = Transpose@ns;
+  weights = Total[inputN * nst[[#]]/allNS[[#]] & /@ Range[1, somLen]];
+]
+```
+
+**Python equivalent (NumPy-style)** of a **Self-Organizing Map (SOM)** update loop. Here’s a reasonably faithful Python version using `numpy`:
+
+```python
+import numpy as np
+
+for u in range(ite + 1):
+    # sigma decay
+    sig = (1 - (u / (ite + 1))) * (max(dim) / 2)
+
+    # random sampling
+    inputN = vec[np.random.choice(len(vec), sel)]
+
+    # find BMUs (nearest weight indices)
+    # assuming weights shape: (somLen, features)
+    dists = np.linalg.norm(weights[None, :, :] - inputN[:, None, :], axis=2)
+    bmus = np.argmin(dists, axis=1)
+
+    # neighborhood function (Gaussian)
+    ns = np.exp(-(distances[bmus] ** 2) / (2 * sig ** 2))
+
+    allNS = np.sum(ns, axis=0)
+    nst = ns.T
+
+    # update weights
+    new_weights = []
+    for i in range(somLen):
+        numerator = np.sum(inputN * nst[i][:, None], axis=0)
+        new_weights.append(numerator / allNS[i])
+
+    weights = np.array(new_weights)
+```
+### Notes (important)
+
+* `distances` must already exist as something like a grid-distance matrix between neurons.
+* `weights` is typically shape `(somLen, feature_dim)`.
+* `vec` is your dataset.
+* `Nearest` in Mathematica maps to `argmin` over Euclidean distance in Python.
+
+
+This is the our AI code, we cultivated all the time.
 
 00:16:11.160 --> 00:16:18.473
 So this code of Kohonan 82 implementation by me, this little poem called a safe organising map,
