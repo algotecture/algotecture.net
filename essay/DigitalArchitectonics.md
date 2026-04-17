@@ -112,7 +112,6 @@ It's a pulsating heart, an oscillating crystal, which makes what we call intelli
 
 Google's page rank is even simpler:
 
-````markdown id="qkz812"
 ```mathematica
 step[r_, k_] :=
   If[k >= maxIter, r/Total[r],
@@ -124,7 +123,7 @@ step[r_, k_] :=
     ]
   ];
 ```
-````
+
 
 Python equivalent (NumPy)
 
