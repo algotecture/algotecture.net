@@ -97,7 +97,7 @@ for u in range(ite + 1):
 
     weights = np.array(new_weights)
 ```
-### Notes (important)
+**Notes (important)**
 
 * `distances` must already exist as something like a grid-distance matrix between neurons.
 * `weights` is typically shape `(somLen, feature_dim)`.
@@ -141,15 +141,9 @@ def step_iter(r, M2, tp, alpha, tol, maxIter):
 
     return r / np.sum(r)
 ```
+They made a trillion worth company with this thing.
+___
 
-
-00:16:41.400 --> 00:16:42.040
-Insane.
-
-00:16:42.600 --> 00:16:46.760
-They made this, this trillion company with this, with this thing.
-
-00:16:49.200 --> 00:16:53.360
 Artificial intelligence is not about learning, it is an inversion of it.
 
 00:16:53.920 --> 00:16:55.160
