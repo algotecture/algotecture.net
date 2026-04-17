@@ -105,25 +105,44 @@ for u in range(ite + 1):
 * `Nearest` in Mathematica maps to `argmin` over Euclidean distance in Python.
 
 
-This is the our AI code, we cultivated all the time.
+This is the our AI code, of Kohonan 1982 is a little poem called a Self Organising Map,
+incorporates and forgets **EVERYthing** to be able to face **ANYthing**.
 
-00:16:11.160 --> 00:16:18.473
-So this code of Kohonan 82 implementation by me, this little poem called a safe organising map,
+It's a pulsating heart, an oscillating crystal, which makes what we call intelligence Today.
 
-00:16:18.473 --> 00:16:23.400
-incorporates and forgets everything to be able to face anything.
+Google's page rank is even simpler:
 
-00:16:24.520 --> 00:16:29.720
-It's a pulsating heart, an oscillating crystal, which makes what we call intelligence.
+````markdown id="qkz812"
+```mathematica
+step[r_, k_] :=
+  If[k >= maxIter, r/Total[r],
+    Module[{rNext = α M2.r + (1 - α) tp},
+      If[Norm[rNext - r, 1] < tol,
+        rNext/Total[rNext],
+        step[rNext, k + 1]
+      ]
+    ]
+  ];
+```
+````
 
-00:16:29.720 --> 00:16:30.240
-Today.
+Python equivalent (NumPy)
 
-00:16:32.200 --> 00:16:33.680
-Google's page rank is even simpler.
+```python id="x9v2lm"
+import numpy as np
 
-00:16:33.680 --> 00:16:41.320
-Look at this, you get the web and you rated it with this code, with this poem.
+def step_iter(r, M2, tp, alpha, tol, maxIter):
+    for k in range(maxIter):
+        rNext = alpha * (M2 @ r) + (1 - alpha) * tp
+
+        if np.linalg.norm(rNext - r, ord=1) < tol:
+            return rNext / np.sum(rNext)
+
+        r = rNext
+
+    return r / np.sum(r)
+```
+
 
 00:16:41.400 --> 00:16:42.040
 Insane.
