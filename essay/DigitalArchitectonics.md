@@ -10,239 +10,37 @@ inspired by the farewell lecture of Ludger Hoverstadt.
 We are exposed to the technology and what we are currently witnessing gives us no reason to relax.
 On the contrary, the situation is escalating, but there's no way around.
 What I miss is the willingness to reflect.
-First there's always a defence, then the damned Brex.
+First there's always a defence, then the dam breaks.
 There's never enough thinking, not beforehand, not afterwards.
 **Technology is either refused as a threat or taken as given, mostly by the same people.**
-
 That resistance to understand thing of both sides is alien to me, but it's the source of my
-
-00:09:20.219 --> 00:09:26.916
 independence and intellectual equity that refuses to be confined, which is provoking to the common
-
-00:09:26.916 --> 00:09:29.240
 sense and easily appears arrogant.
 
-00:09:29.840 --> 00:09:30.480
-That's me.
 
-00:09:33.160 --> 00:09:39.480
-So in 84 I got my family and four kids, which is very considerate for my career.
-
-00:09:39.840 --> 00:09:50.569
-I got very, very grounded with this set up in my intellectual ambitions on it looked like this here
-
-00:09:50.569 --> 00:09:52.520
-I'm professor ETH.
-
-00:09:53.080 --> 00:09:56.240
-I made it 20 years to to for aesthetical reasons.
-
-00:09:56.240 --> 00:09:57.640
-So I started in 2000.
-
-00:10:03.800 --> 00:10:12.760
-So this is when I started with my with my inauguration lecture and now we are here.
-
-00:10:16.120 --> 00:10:21.280
-So if people characterise me, I'm impatient, you all know.
-
-00:10:23.200 --> 00:10:26.360
-I had always dreamed of working at the university.
-
-00:10:26.480 --> 00:10:29.040
-When I was growing up, our neighbor worked as a researcher.
-
-00:10:29.040 --> 00:10:34.200
-I admire his independence compared to my father's dedication to his work as a chemist in a factory.
-
-00:10:34.200 --> 00:10:37.000
-Here at ETH, I have found the ideal place.
-
-00:10:37.000 --> 00:10:38.320
-I'm very grateful for that.
-
-00:10:39.240 --> 00:10:43.480
-Surprisingly, the challenges I had to overcome had nothing to do with teaching or research.
-
-00:10:43.800 --> 00:10:49.880
-It was a simple factor that that my career had come to a premature end at the age of age of 40.
-
-00:10:51.440 --> 00:10:57.720
-I have working hard for years to come in to terms with this fact that that is no better place.
-
-00:10:58.960 --> 00:11:02.640
-This turns out to be a defining aspect of my work here at DTH.
-
-00:11:03.240 --> 00:11:06.400
-I refuse to spend energy or money on academic marketing.
-
-00:11:06.720 --> 00:11:10.520
-I did not seek my first certations on academic papers.
-
-00:11:10.560 --> 00:11:13.000
-Books, yes, but papers no.
-
-00:11:13.920 --> 00:11:16.440
-It's the students who must build careers, not I.
-
-00:11:18.480 --> 00:11:23.160
-This stubbornness was not helpful on the long term, I have to admit.
-
-00:11:24.760 --> 00:11:25.520
-But who knows?
-
-00:11:26.720 --> 00:11:29.840
-I feel quite happy with what what how things develop.
-
-00:11:32.280 --> 00:11:39.120
 I also struggled to acknowledge this technology races ahead on a highway while it's accept
-
-00:11:39.120 --> 00:11:41.400
 applications and architecture.
 
-00:11:41.400 --> 00:11:44.160
-I love crawl forwards like a farmer's tractor.
 
-00:11:46.600 --> 00:11:52.666
-In the 1st 10 years we saw ourselves as scouts scoring information technology for promising
+### After 10 years...
 
-00:11:52.666 --> 00:11:54.600
-applications in architecture.
-
-00:11:54.760 --> 00:12:00.293
-Thanks to ETH generous budget, there was hardly any competition in our immediate research
-
-00:12:00.293 --> 00:12:01.040
-environment.
-
-00:12:01.240 --> 00:12:05.400
-There were the big companies, yes, but computer architects at universities, no.
-
-00:12:06.000 --> 00:12:10.240
-So we collaborated with major firms with interesting results.
-
-00:12:12.200 --> 00:12:18.320
-There's this first book summarising this first phase of our of our institute.
-
-00:12:20.120 --> 00:12:25.560
-But we felt treated as tech geeks had been paid badly and did not receive credits.
-
-00:12:26.440 --> 00:12:30.760
-So we found it's like the people in the copy shop, you simply don't correctly respect them.
-
-00:12:32.480 --> 00:12:34.520
-And this computer treatment is always like this.
-
-00:12:34.520 --> 00:12:40.520
-It's we are not simply not respected and they, we, we are like, like geeks.
-
-00:12:42.280 --> 00:12:45.440
-So we founded our own companies and tried to find our measures in market.
-
-00:12:46.120 --> 00:12:49.400
-It did not go entirely smoothly, but things turned out quite well.
-
-00:12:49.560 --> 00:12:51.640
-So it's six companies in total.
-
-00:12:52.720 --> 00:12:56.240
-This is my first company before I came here with my brother.
-
-00:12:56.960 --> 00:12:58.400
-This is the most ambitious one.
-
-00:12:59.760 --> 00:13:07.440
-This is a smart building and it's plug and play like Lego.
-
-00:13:08.560 --> 00:13:21.499
-Angela Merkel with our CEO, then this Prod McGregor, this the most stupid product we had and the
-
-00:13:21.499 --> 00:13:27.160
-most successful one because you're stupid.
-
-00:13:27.160 --> 00:13:31.720
-It's just a tagger on the container, global connectivity and that's it.
-
-00:13:35.840 --> 00:13:39.840
-This is the most architectural spin off designed to productions.
-
-00:13:41.360 --> 00:13:47.840
-It's the most prominent artefacts in all museums, all shops, everywhere from Oscar theatre.
-
-00:13:48.520 --> 00:13:51.880
-It is the most manneristic artefact we created.
-
-00:13:52.800 --> 00:13:55.120
-Or this almost it's 12 years ago now.
-
-00:13:56.640 --> 00:13:59.040
-Bombastic baroque setup.
-
-00:13:59.080 --> 00:14:02.120
-This was the final step in our digital production.
-
-00:14:04.240 --> 00:14:04.920
-After 10 years.
-
-00:14:04.920 --> 00:14:06.960
 This approach found a level of saturation.
-
-00:14:07.000 --> 00:14:10.760
 We learnt that IT works very radically, always and everywhere the same.
-
-00:14:11.000 --> 00:14:15.892
 We were not longer confronted with the question of how to solve a problem, but how to get data, tons
-
-00:14:15.892 --> 00:14:16.920
 of data, when needed.
 
-00:14:17.760 --> 00:14:21.280
 This is where we faced massive resistance from the established markets.
-
-00:14:21.760 --> 00:14:24.000
 That was a fight against windmills.
-
-00:14:24.400 --> 00:14:30.027
 It was also the time when the new colleagues at ETH began to take computer seriously and gain their
+own experience. We made a step back and questioned what is going on.
 
-00:14:30.027 --> 00:14:30.880
-own experience.
-
-00:14:31.000 --> 00:14:34.240
-We made a step back and questioned what is going on.
-
-00:14:36.800 --> 00:14:41.903
 We turn to birds, principle, computer science, mathematics, philosophy, matching, architectural
-
-00:14:41.903 --> 00:14:42.280
 theory.
 
-00:14:42.680 --> 00:14:47.693
-This was had not been possible without my wife Vera the philosopher and my friend Elias and
-
-00:14:47.693 --> 00:14:48.520
-mathematicians.
-
-00:14:49.000 --> 00:14:56.760
-And we wrote books, quite a lot of books, with Burkhauser here.
-
-00:14:56.760 --> 00:15:03.683
-My master, the Swiss architect Fred Saller, I would say the mannerist among functionalists, helped a
-
-00:15:03.683 --> 00:15:03.960
-lot.
-
-00:15:04.440 --> 00:15:05.520
-And I will tell you why.
-
-00:15:05.920 --> 00:15:06.800
-Look at this guy.
-
-00:15:08.440 --> 00:15:16.577
-This unassuming, rather small man has turned every known construction around and created his generic
-
-00:15:16.577 --> 00:15:20.240
-note with all of the known constructions not.
+### Fritz Haller
+the Swiss architect  Fritz Haller -- the **MANIERIST** among **Functionalists**. 
+He has turned every known construction around and created his generic **NODE**
+wich is **ALL** of the known constructions not.
 
 00:15:24.720 --> 00:15:25.200
 Beautiful.
