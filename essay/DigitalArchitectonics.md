@@ -200,7 +200,7 @@ Images are flooding away with reality.
 
 **METEORA**
 
-we learnt to play the idea of architecture with a new instrument of
+We learnt to play with the idea of architecture with a new instrument of
 connected characters.
 
 We used our AI tools on text, images and models to give students their personal architectural voice
@@ -362,12 +362,12 @@ What are the clashes?
 Terrorism, energy sources, social justice, cybersecurity, globalization, disruption, polarisation,
 inequality, poverty, health crisis, human rights, protectionism, corruption, privacy, limit of
 growth, singularity.
-I easily can find hundreds of these.
+I can easily find hundreds of these.
 They all sound the same, with a biocratic and technocratic taste, made by experts and protected by
 legions.
 This is a rough condition.
 It feels like bad weather.
-I cannot say any see any shelter anywhere.
+I cannot see any shelter anywhere.
 I feel exposed and fainted.
 
 
@@ -646,820 +646,346 @@ Or as seduction of super companies Amazon, Apple, Alibaba, Facebook, Google, Air
 These tokens provide me with a life of unparalleled comfort.
 
 It is hard to imagine that I deserve it, so it leaves me struggling with feelings of guilt.
-In the fading images of the 19th century, workers like me denounced capital and fought against being
-
-00:41:32.152 --> 00:41:33.840
-exploited in production.
-
-00:41:34.520 --> 00:41:40.120
-With the returning voices of the 20th century, I accuse myself of capitalism and fight exploitations
-
-00:41:40.120 --> 00:41:41.800
-of nature by me as a consumer.
-
-00:41:42.360 --> 00:41:44.280
+In the fading images of the 19th century, workers like me denounced capital and fought against being exploited in production.
+With the returning voices of the 20th century, I accuse myself of capitalism and fight exploitations of nature by me as a consumer.
 The game has remaining largely the same.
-
-00:41:44.280 --> 00:41:45.720
 My perspective has changed.
-
-00:41:45.720 --> 00:41:46.880
 I used to be a victim.
-
-00:41:47.160 --> 00:41:49.720
 Now I feel like a perpetrator.
 
-00:41:52.200 --> 00:41:55.240
-That is why these tokens scored my interest.
 
-00:41:55.480 --> 00:42:04.430
-Finance, resources and exponential population or economic growth, global average service temperature
+That is why these tokens caught my interest.
 
-00:42:04.430 --> 00:42:11.680
-risings with energy consumption in contrast to nature, photosynthesis, and so on.
+*Finance, resources (minirals, energy, food) cannot support exponential population or economic growth... global average service temperature is
+risings with energy consumption in contrast to nature, photosynthesis, and so on.*
 
-00:42:13.600 --> 00:42:21.006
-And I feel drawn to the Super capitalist philanthropists promises relief, promising relief as a
-
-00:42:21.006 --> 00:42:28.490
-Buffett, the Gates, Scott Bloomberg, Gibson, Omidyar strips and of course the good activists are
-
-00:42:28.490 --> 00:42:30.440
-also hanging around here.
-
-00:42:30.800 --> 00:42:38.135
+And I feel drawn to the Super capitalist philanthropists promising relief, as Buffett, the Gates, Scott, Bloomberg... and of course the good activists are also hanging around here.
 Amnesty International, Doctors Without Borders, King Ocean Seat up, Human Rights Watch, Greenpeace
-
-00:42:38.135 --> 00:42:40.680
 Worldwide Fund, Court for America.
-
-00:42:42.320 --> 00:42:47.425
 All these these people arguments, products companies, NGOs, they all embrace the world with their
-
-00:42:47.425 --> 00:42:51.320
 frequency numbers and they propel the tokens of the 20th century resident.
 
-00:42:51.320 --> 00:42:58.118
-And so this is interesting that we have super nice minds and and sets of of words now and they have
 
-00:42:58.118 --> 00:42:59.560
+And so this is interesting that we have super nice minds and sets of of words now and they have
 a special temp taste.
+The temperament 
 
-00:43:00.040 --> 00:43:08.096
-The temperament racism focus critique gender Internet human modernity guy kid supportivity activist
-
-00:43:08.096 --> 00:43:16.153
-paradigm governance phone worry scenario router **** ontology highlight website mainstream archive,
-
-00:43:16.153 --> 00:43:23.558
+racism focus critique gender Internet human modernity guy kid supportivity activist
+paradigm governance phone worry scenario router... ontology highlight website mainstream archive,
 modernist video sexuality overview depiction artwork modality heterosexual populist tourism
-
-00:43:23.558 --> 00:43:30.720
 neuropsychology, field work phenotype, which in fact are inventions of the 20th century.
-
-00:43:31.040 --> 00:43:39.786
 As these frequency as a frequency number say, these tokens do not know the past time, but they show
+up with shouting images like this if you go for example with racism.
 
-00:43:39.786 --> 00:43:47.914
-up with shouting images like this if you go for example with racism, unlike some mature 19th
-
-00:43:47.914 --> 00:43:49.240
+unlike some mature 19th
 century tokens.
 
-00:43:50.240 --> 00:43:55.565
 So again, another frequencies and they are they're meeting other birds with surprisingly different
-
-00:43:55.565 --> 00:43:56.000
 friends.
 
-00:43:56.000 --> 00:43:57.840
 And now you look at the temperament here.
 
-00:43:57.840 --> 00:43:59.320
 It's just by numbers.
 
-00:44:00.800 --> 00:44:08.644
-Race comes instead of racism comes with marriage with code, lake, needle, sister person, opposition,
+*Race comes instead of racism comes with marriage with code, lake, needle, sister person, opposition, silence, observation, measure, crime, goose, youth, intelligence, circle, boat, fiddle, rain, bird, liberal song, garden, grammar, year, snow, argument, instance, bride, casket, translator, visit, rider, extreme imagination, distance tower, morning distinction, success, language and wish.*
 
-00:44:08.644 --> 00:44:16.410
-silence, observation, measure, crime, goose, youth, intelligence, circle, boat, fiddle, rain, bird,
-
-00:44:16.410 --> 00:44:23.863
-liberal song, garden, grammar, year, snow, argument, instance, bride, casket, translator, visit
-
-00:44:23.863 --> 00:44:31.080
-rider, extreme imagination, distance tower, morning distinction, success, language and wish.
-
-00:44:31.960 --> 00:44:39.235
 And whose images echo the quite nobility of the 19th century, which what a striking reference
-
-00:44:39.235 --> 00:44:46.120
 difference, the silent images of the 19th century and the shoutings of the 20th century.
 
-00:44:46.200 --> 00:44:54.227
 The token race is silent, racism is shouting, but even if the tongue now it's getting complicated,
-
-00:44:54.227 --> 00:45:02.254
 but even if these tokens are shouting, the images are still fading away, because their images, all
+the images fade away...
 
-00:45:02.254 --> 00:45:05.040
-the images fade away, they do not.
+they do not.
 
-00:45:05.200 --> 00:45:10.912
 So whatever images are, they do not conceal the fact that the large numbers of the 20th century are
-
-00:45:10.912 --> 00:45:12.240
 beyond the imagination.
-
-00:45:13.160 --> 00:45:17.712
 So there are numbers which are with the imagination and there are numbers which are beyond
-
-00:45:17.712 --> 00:45:18.320
 imagination.
 
-00:45:19.000 --> 00:45:23.400
-For example, beyond imagination is communication works with 200 million meters per second.
+**For example, beyond imagination is communication works with 200 million meters per second. The processor had 200 billion transistors. Global computing power is 10 powers 25 FLOPS 2025 generates 180 billion terabytes of data. That's beyond anything.**
 
-00:45:25.760 --> 00:45:27.920
-The processor had 200 billion transistors.
-
-00:45:29.240 --> 00:45:37.240
-Global computing power is 10 powers 25 FLOPS 2025 generates 180 billion terabytes of data.
-
-00:45:38.960 --> 00:45:40.600
-That's beyond anything.
-
-00:45:44.000 --> 00:45:47.080
 These images are afraid of these numbers.
-
-00:45:48.640 --> 00:45:54.160
 They prefer to remain within the realm of time, not willing to die.
-
-00:45:54.720 --> 00:45:56.320
 They don't want to leave time.
 
-00:45:56.960 --> 00:46:01.040
 They stay undead and cannot enter the stage of space.
 
-00:46:04.800 --> 00:46:09.982
-It would be such a relief and social media if social media would give up the simple detached and
+It would be such a relief and social media if social media would give up the simple detached and undead.
 
-00:46:09.982 --> 00:46:10.360
-undead.
-
-00:46:10.360 --> 00:46:10.920
 I like it.
-
-00:46:10.920 --> 00:46:15.120
 I don't like it and switch to an involved and vivid.
 
-00:46:15.200 --> 00:46:15.840
+
 I like that.
 
-00:46:15.840 --> 00:46:20.800
 I like, I like that I don't like I don't like that I don't like I don't like that I like.
 
-00:46:21.960 --> 00:46:31.415
-This would be great always 2 times and then I'm involved and then it's very, very clear the undead,
+This would be great always 2 times and then I'm involved and then it's very, very clear the undead, they don't like that they like it and makes makes a lot of complications seductively appear everywhere and make you afraid of the voices from behind loud and undead.
 
-00:46:31.415 --> 00:46:40.107
-they don't like that they like it and makes makes a lot of complications seductively appear
+As Valentino campaign AI Atavras make selling fashion.
+So it's fascinating, but they're undead.
 
-00:46:40.107 --> 00:46:47.080
-everywhere and make you afraid of the voices from behind loud and undead.
+### 8 Language Games
 
-00:46:49.600 --> 00:46:55.800
-So Valentino campaign AI Atavras make selling fashion.
+Here I Meet Wittgenstein and now listen to this sentence:
 
-00:46:57.320 --> 00:47:02.760
-So it's fascinating, but they're undead here.
+*The word is all That is the case... The limits of my language means the limits of my world... Whereof I cannot speak, thereof one must be silent.* 
+Tractatus, 1921
 
-00:47:02.760 --> 00:47:06.240
-Meet Wittgenstein and now listen to this sentence.
+Language, like imagination, fades towards entropic horizon of peaceful silence.
 
-00:47:06.240 --> 00:47:07.200
-The word is all.
+Wittgenstein literally went there. He vanished to the Norwegian nowhere, somewhere in the fjords in the north. And then he came back 30 years later with a voice from beyond Infinity affirming the paradox. Investigations 1953
 
-00:47:07.200 --> 00:47:08.160
-That is the case.
+And now these sentences:
+*Language is a source of misunderstanding. The meaning of a word is it's use in the language.*
 
-00:47:08.720 --> 00:47:14.366
-The limits of my language means the limits of my world Whereof I cannot speak there, there of one
+This is a linguistic term which lives up to its name, in contrast to Derrida (who made language silent in a masterful labyrinth without an exit) or Chomsky (whose lingustic structures and grammars did not succeed in any translation and kept silent). 
 
-00:47:14.366 --> 00:47:15.240
-must be silent.
-
-00:47:15.480 --> 00:47:20.760
-21 Look at this guy, I love him.
-
-00:47:24.160 --> 00:47:30.160
-Language, like imagination, fades towards entropic horizon of peace, peaceful silence.
-
-00:47:30.440 --> 00:47:32.400
-Wittgenstein literally went there.
-
-00:47:32.400 --> 00:47:38.560
-He vanished to the Norwegian nowhere, somewhere in the fjords in the north.
-
-00:47:40.520 --> 00:47:46.360
-And then he came back 30 years later with a voice from beyond Infinity affirming the paradox.
-
-00:47:46.440 --> 00:47:49.040
-53 And now these sentences.
-
-00:47:49.120 --> 00:47:51.200
-Language is a source of misunderstanding.
-
-00:47:53.000 --> 00:47:55.880
-The meaning of a word is it's use and language.
-
-00:47:55.880 --> 00:47:59.000
-This is what I'm exercising here.
-
-00:48:03.080 --> 00:48:09.641
-This is a linguistic term which lives up to its name, in contrast to Derrida or Chomsky, a term
-
-00:48:09.641 --> 00:48:14.200
-which is in line with the recent success of large language models.
-
-00:48:14.200 --> 00:48:15.840
+a turm which is in line with the recent success of large language models.
 So do not try to understand.
-
-00:48:15.840 --> 00:48:17.800
 Therefore you should not try to understand what I'm saying.
-
-00:48:17.800 --> 00:48:19.040
-Yeah, very important.
-
-00:48:20.400 --> 00:48:24.360
+very important.
 So just count numbers because of that.
+It's not, and not in spite of that they're given algebraic rise to a voice beyond the realm of language.
+That is a genuine linguistic turn from silence at the end of time towards language games on the stage of space, from ontological linearity of linguistics to the hermeneutical. It's a clarity of philology.
 
-00:48:24.360 --> 00:48:29.507
-It's not, and not in spite of that they're given algebraic rise to a voice beyond the realm of
-
-00:48:29.507 --> 00:48:30.000
-language.
-
-00:48:30.600 --> 00:48:37.566
-That is a genuine linguistic turn from silence at the end of time towards language games on the
-
-00:48:37.566 --> 00:48:43.360
-stage of space, from ontological linearity of linguistics to the hermeneutical.
-
-00:48:44.080 --> 00:48:45.680
-It's a clarity of philology.
-
-00:48:45.720 --> 00:48:47.480
 From the hydraulic great knowing.
-
-00:48:47.480 --> 00:48:48.880
 We go with this eco people.
-
-00:48:48.920 --> 00:48:56.232
-I I love this turn as well, From the hydraulic radiance of the flora to the heartbeat of an animal,
-
-00:48:56.232 --> 00:48:59.040
+I love this turn as well, 
+From the hydraulic radiance of the flora to the heartbeat of an animal,
 from green to red, from gender to sex.
 
-00:49:03.640 --> 00:49:06.200
+### 9 Coming Back
+
 I like another metaphor for this complex figure of thinking.
 
-00:49:07.520 --> 00:49:14.918
-I see the movement movements fading away towards the entropic horizon of the good is what I think is
+**I see the movement fading away towards the entropic horizon of the good.**
 
-00:49:14.918 --> 00:49:22.169
-these failing images, like if there's a drops and on on a lake and they're fading and then towards
+This is what I think is these failing images, like if there's a drop on a lake and they're fading towards the silence at the shelf. 
 
-00:49:22.169 --> 00:49:29.346
-the silence at the at the shelf and I hear the chaotic turbulences and steady circulations coming
-
-00:49:29.346 --> 00:49:31.640
+I **hear** the chaotic turbulences in steady circulations coming
 back around an axis of justice.
 
-00:49:33.200 --> 00:49:41.111
-So seeing good here justice, a horizontal fading away and a vertical coming back, which is very
+**A horizontal fading away and a vertical coming back - which is very important for architecture.**
 
-00:49:41.111 --> 00:49:43.360
-important for architecture.
+These principal figures, ethnography or autography. I'm putting that in proportion as scenography. 
 
-00:49:43.680 --> 00:49:47.200
-These these principal figures, ethnography or autography.
+with these vertices I join a Sufi poem:
+Attar's Conference of the Birds tells of birds who journey through seven spiritual valleys in search of the Simorgh, only to discover that the divine King they see is their own, transformed collective self.
 
-00:49:48.720 --> 00:49:54.120
-I'm putting that in proportion as a scenario fear with these vertices.
-
-00:49:54.120 --> 00:49:55.760
-I join a Sufi poem poem.
-
-00:49:57.120 --> 00:50:00.440
-You should read it as beautiful Atta.
-
-00:50:00.440 --> 00:50:08.027
-It's the 12th century Atta's Conference of the Birds, tales of birds who journey through 7 spiritual
-
-00:50:08.027 --> 00:50:15.235
-valleys in search of the same work, only to discover that the divine King they see is their own
-
-00:50:15.235 --> 00:50:17.360
-transformed collective self.
-
-00:50:21.480 --> 00:50:22.920
 And I start to listen to the birds.
 
-00:50:26.240 --> 00:50:29.000
+### 10 Beyond Imagination
+
 With these birds, I can face these numbers beyond imagination.
 
-00:50:30.800 --> 00:50:33.920
 And I'm questioning which token can capture these figures.
 
-00:50:35.160 --> 00:50:38.440
 There's only this one, and there's one that came to in mind.
-
-00:50:39.640 --> 00:50:41.640
 Somewhat surprising at first, but when?
-
-00:50:41.720 --> 00:50:42.040
 When?
-
-00:50:42.040 --> 00:50:43.840
 But then increasingly convincing.
-
-00:50:43.960 --> 00:50:46.040
 It is just the token of money.
-
-00:50:48.440 --> 00:50:51.320
 So don't take it too serious.
-
-00:50:51.560 --> 00:50:55.520
 Everything is kind of absurd, but take it serious.
-
-00:50:55.520 --> 00:50:55.760
-Yeah.
-
-00:50:58.240 --> 00:51:01.440
 And it's surprising how these things turn around.
-
-00:51:03.000 --> 00:51:04.280
 That's an inconvenient point.
 
-00:51:04.280 --> 00:51:08.840
 I don't want to be to this, to be pushed into the corner of mere naivety.
 
-00:51:08.840 --> 00:51:15.280
 These are things by they call me naive or infantile at the age of above 50.
 
-00:51:17.160 --> 00:51:22.920
 Today, imagination plays innocent around nature and energy, which gives comfort.
 
-00:51:24.400 --> 00:51:26.400
 Money, in contrast, plays guilty.
 
-00:51:26.680 --> 00:51:29.520
 Yes, money comes as power, and this power is out of control.
-
-00:51:30.120 --> 00:51:30.720
 It's money.
-
-00:51:30.720 --> 00:51:37.077
 The responsibility of this power is reflected back on us and cannot be delegated to the necessities
-
-00:51:37.077 --> 00:51:37.720
 of nature.
 
-00:51:38.400 --> 00:51:39.400
-This is the liberating.
 
-00:51:39.400 --> 00:51:41.680
 This is as liberating as uncomfortable.
-
-00:51:44.480 --> 00:51:47.360
 This term does not mean that I ignore the limits of growth.
-
-00:51:48.120 --> 00:51:53.200
 I just do not expect help from tokens within these limits, or in both terms.
-
-00:51:53.240 --> 00:51:57.880
 Energy and nature are not powerful enough to play an adequate game today.
 
-00:52:01.560 --> 00:52:11.021
-So to relax this and make it algebraic, I make this this game and to set up take A for energy and
-
-00:52:11.021 --> 00:52:12.680
-take B for money.
-
-00:52:14.320 --> 00:52:16.840
+So to relax this and make it algebraic, I make this game and to set up take A for energy and take B for money.
 A powers the birds, B makes them fly.
-
-00:52:18.160 --> 00:52:20.680
 A is arithmetic, B is algebraic.
 
-00:52:21.520 --> 00:52:29.358
-So I'm turning from the linear consumption of 600 extra Joule of A to the circulation of 100
 
-00:52:29.358 --> 00:52:37.708
-trillion dollars of B per year, and follow B's arguments with the same conviction that I'm used to
+So I'm turning from the linear consumption of 600 extra Joule of A to the circulation of 100 trillion dollars of B per year, and follow B's arguments with the same conviction that I'm used to do with A.
 
-00:52:37.708 --> 00:52:38.560
-do with A.
-
-00:52:38.560 --> 00:52:42.120
 A is an underground game around scarcity.
-
-00:52:42.440 --> 00:52:44.480
 B is an airborne game of fulcrum.
+It's a genuine turn from economy around necessities to the politics of contingencies, and the temperament of the planet Earth changes instantly.
 
-00:52:45.480 --> 00:52:52.191
-It's a genuine turn from economy around necessities to the politics of contingencies, and the
-
-00:52:52.191 --> 00:52:55.800
-temperament of the planet Earth changes instantly.
-
-00:52:57.760 --> 00:52:59.880
 80 trillion of the 100 trillion are used to.
-
-00:53:00.040 --> 00:53:02.600
 On the planet in the current conditions are like Picchetti.
 
-00:53:03.480 --> 00:53:08.000
-This is what in former terms of farmers used to make their living with and sustain their farmland.
+This is what in former terms of farmers used to make their living with and sustain their farmland. This is what we call sustainability, green cities and so on. This is 2 third of our circulation of our money, 80 trillion is linear economic money.
 
-00:53:08.120 --> 00:53:10.600
-This is what we call sustainability, green cities and so on.
+Therefore, we have green cities and sustainability there because it runs along the lines of necessities.
 
-00:53:10.600 --> 00:53:20.600
-This is 2 third of our circulation of our money, 80 trillion is linear economic money.
+The remaining 40 trillions are surplus and correspond to the profit of the landlords and former times.
 
-00:53:20.600 --> 00:53:27.526
-Therefore, we have green cities and sustainability there because it runs along the lines of
-
-00:53:27.526 --> 00:53:28.440
-necessities.
-
-00:53:28.600 --> 00:53:34.619
-The remaining 40 trillions are surplus and correspond to the profit of the landlords and former
-
-00:53:34.619 --> 00:53:35.000
-times.
-
-00:53:35.640 --> 00:53:39.280
 This is a source of power and can be can be invested for anything.
-
-00:53:39.280 --> 00:53:41.280
 This is circular political money.
+In earlier times, a 10th of this money went to the king or the government as rent, not a tax. Taxes divide on economic money and should be spent sustainable respectively.
 
-00:53:41.960 --> 00:53:47.440
-In earlier times, a 10th of this money went to the king or the government as rent, not a tax.
-
-00:53:47.800 --> 00:53:53.080
-Taxes divide on economic money and should be spent sustainable respectively.
-
-00:53:53.080 --> 00:53:59.546
-Linear rent is on a political money and circular and numbers of 10s of 10s is 4 trillion a year
-
-00:53:59.546 --> 00:54:06.285
-globally, which is 1000 times as a budget of United Nations and it would be 30 billion a year for a
-
-00:54:06.285 --> 00:54:12.683
-country like Switzerland equals 20 times of budget of ETH or three billions just for city like
-
-00:54:12.683 --> 00:54:13.160
-Vienna.
-
-00:54:13.760 --> 00:54:21.542
-Not for consumption, maintenance, investments, education, just to practice the skills needed to
-
-00:54:21.542 --> 00:54:24.000
-navigate this planet formally.
-
-00:54:24.000 --> 00:54:25.520
+Linear rent is on a political money and circular and numbers of 10s of 10s is 4 trillion a year globally, which is 1000 times as a budget of United Nations and it would be 30 billion a year for a country like Switzerland equals 20 times of budget of ETH or three billions just for city like Vienna.
+Not for consumption, maintenance, investments, education, just to practice the skills needed to navigate this planet formally.
 The turbulences into word.
-
-00:54:25.520 --> 00:54:26.640
 Is it for consciousness?
 
-00:54:27.240 --> 00:54:28.680
-A breathtaking?
-
-00:54:28.760 --> 00:54:30.320
 This is breathtaking, literally.
 
-00:54:30.320 --> 00:54:32.000
 We are rich and we do not know that.
-
-00:54:33.360 --> 00:54:35.240
 We do not have the words from beyond.
-
-00:54:36.280 --> 00:54:37.600
 We are not liberated.
 
-00:54:39.480 --> 00:54:40.720
-They like these photographs.
+### 11 Give Power a Face
 
-00:54:45.800 --> 00:54:48.680
-Die Blind Liverpool und der Every Bear Like.
+Here they enter, the old masters of architecture: because they had been able to give power a public face. a face that people can agree on.
+Not to fight power, this would be the lost game of enlightenment and revolution, but to make people aware. make them to live with their power, with responsibility of consciousness.
+following the tokens of humanism and Renaissance.
 
-00:54:51.400 --> 00:54:56.386
-Here they are, the old masters of architecture, because they had been able to give power of public
-
-00:54:56.386 --> 00:54:58.320
-face, a face that people can agree on.
-
-00:54:58.720 --> 00:55:04.052
-Not to fight power, This would be the lost game of enlightenment and revolution, but to make people
-
-00:55:04.052 --> 00:55:09.114
-aware, make them to live with their power, with responsibility of consciousness, following the
-
-00:55:09.114 --> 00:55:11.000
-tokens of humanism and Renaissance.
-
-00:55:12.440 --> 00:55:13.440
 Now we go Florence.
 
-00:55:15.200 --> 00:55:16.240
-This is how they did it.
-
-00:55:18.360 --> 00:55:21.480
 Now I look around for the faces of power today.
-
-00:55:22.200 --> 00:55:23.760
 They're nowhere and everywhere.
-
-00:55:23.760 --> 00:55:30.400
-The mask, Page, Gates, Prince Zuckerberg, Bezos, alien and they look like this.
-
-00:55:34.000 --> 00:55:37.360
+The Musk, Page, Gates, Prince Zuckerberg, Bezos, and they look like this.
 He's actually living there most days of his life.
+What can be a place for them? beside hiding behind walls, provoking in media or a disruptive, deceitful
+"I'm just like you."
 
-00:55:40.520 --> 00:55:46.849
-What can be a place for them beside hiding behind walls, provoking in media or or disruptive
+We have no idea.
 
-00:55:46.849 --> 00:55:47.400
-decisal?
-
-00:55:47.400 --> 00:55:47.800
-I'm not.
-
-00:55:47.920 --> 00:55:49.000
-I'm just like you.
-
-00:55:50.120 --> 00:55:51.640
-We don't have no idea.
-
-00:55:51.760 --> 00:55:54.080
 Because of that, their power is out of control.
 
-00:55:59.000 --> 00:56:05.942
-Architecture knows the sacred, the public and the private as sacrificing the local, talking globally
+Architecture knows the sacred, the public and the private. as sacrificing the local, talking globally and coming back home.
 
-00:56:05.942 --> 00:56:07.400
-and coming back home.
+**Encoding, coding, decoding.**
 
-00:56:07.960 --> 00:56:10.040
-Encoding, coding, decoding.
+I do not think there is a way around this scheme.
 
-00:56:11.480 --> 00:56:13.840
-I do not think there's a way around this scheme.
+One might use other metaphors, but a tripod is needed to give stability to the vortices.
+As a revolution is driven by horizontal forces, a renaissance needs an upright stability.
 
-00:56:13.920 --> 00:56:19.280
-One might use other metaphors, but a tripod is needed to give stability to the waterses.
+## Today
 
-00:56:19.800 --> 00:56:24.840
-As a revolution is driven by horizontal forces, a renaissance need an abstract stability.
-
-00:56:30.910 --> 00:56:32.270
 This is the current state of my thinking.
 
-00:56:32.270 --> 00:56:32.510
-Yeah.
-
-00:56:34.550 --> 00:56:36.790
 I haven't advanced much beyond this point yet.
 
-00:56:37.270 --> 00:56:43.150
 I do not want to give in the temptation of cast a manifesto or do an actual design.
 
-00:56:43.840 --> 00:56:49.980
-Instead I'm looking for unpotentious traces of how these powerful structures are being stabilised
+Instead I'm looking for unpotentious traces of how these powerful structures are being stabilised today.
 
-00:56:49.980 --> 00:56:50.360
-today.
+### Knowledge
 
-00:56:50.560 --> 00:56:51.840
-That should be enough for today.
+So the birds are now flying at three points, 3 powerful points. 
 
-00:56:52.960 --> 00:56:55.720
-So now we have 3, three.
+at home in Europe, $20 trillion a year.
+Of the words 120 trillion are circulating around, I would say the token knowledge I can other do others not this important.
 
-00:56:55.880 --> 00:57:03.680
-So the birds now flying at three points, 3 powerful points at home in Europe, $20 trillion a year.
-
-00:57:03.680 --> 00:57:10.604
-Of the words 120 trillion are circulating around, I would say the token knowledge I can other do
-
-00:57:10.604 --> 00:57:12.480
-others not this important.
-
-00:57:12.480 --> 00:57:16.640
 And knowledge is expanding in its territory by education and knowing better.
 
-00:57:17.640 --> 00:57:18.960
 So travelling a lot.
-
-00:57:20.200 --> 00:57:25.200
 I would say give it a try, argue like this.
 
-00:57:28.240 --> 00:57:31.000
-The sacred places of knowledge are quite voices.
+The sacred places of knowledge are quite voids, tempered by light.
 
-00:57:31.000 --> 00:57:34.760
-So this encoding sacrifice what you know.
+So this encoding - sacrifice what you know.
 
-00:57:35.200 --> 00:57:40.360
-This is about forgetting are quiet voice tempered by like.
-
-00:57:42.800 --> 00:57:45.560
-The politics of knowledge is done by elected people.
-
-00:57:45.560 --> 00:57:51.160
+The politics of knowledge is done by elected people. 
 Meeting in public and talking in formal ways is what we like to have.
 
-00:57:53.080 --> 00:57:59.621
-Knowledge is established in biocracies and threatened by the obedience which is invisible and
+Knowledge is established in biocracies and threatened by the **obedience** which is invisible and everywhere 
 
-00:57:59.621 --> 00:58:01.520
-everywhere that's a threat.
+that's a threat.
 
-00:58:02.480 --> 00:58:03.440
 Maybe I'm too German.
-
-00:58:03.440 --> 00:58:12.400
 There I face the shadow of knowledge, which is fascism in the 20th century.
-
-00:58:14.520 --> 00:58:15.680
 I will put it like this.
 
-00:58:17.640 --> 00:58:20.920
-People of knowledge come back home full as in full.
+People of knowledge come back home in full detailed bodies. 
 
-00:58:20.920 --> 00:58:32.320
-Detailed bodies to places with individual objects are arranged with care both of them.
+to places with individual objects are arranged with care 
 
-00:58:32.640 --> 00:58:41.320
-All these objects, they know the new There's an even more powerful token.
+I bow for them. All these objects, they know 
 
-00:58:41.360 --> 00:58:46.432
-About 30 trillion of the world's 120 trillion is circulating around the token of the new, it
+### the new 
 
-00:58:46.432 --> 00:58:49.520
-expanding its territory by restriction and being better.
+There's an even more powerful token.
 
-00:58:50.200 --> 00:58:54.480
+About 30 trillion of the world's 120 trillion is circulating around the token of the new, it expanding its territory by restriction and being better.
+
 The secret places of the new are voids embedded in objects of fantastic colours.
+The politics of the new is done by by designated agents fighting on numbers. 
 
-00:58:56.320 --> 00:59:03.236
-The politics of the new is done by designed agent, by designated agents fighting on numbers, the new
-
-00:59:03.236 --> 00:59:09.600
+the new
 establishment oligarchies and threatens by the social, which appears sudden and in the dark.
-
-00:59:12.760 --> 00:59:14.120
 So this is very controversial.
-
-00:59:14.120 --> 00:59:16.800
 Just give it a try, give it a chance.
 
-00:59:18.000 --> 00:59:23.411
-I I think it's important to talk detached like this about this phenomenon, being able to, to find
-
-00:59:23.411 --> 00:59:26.480
-these symmetries and it's an algebraic way out of this.
-
-00:59:26.640 --> 00:59:29.280
+I think it's important to talk detached like this about this phenomenon, being able to, to find these symmetries and it's an algebraic way out of this.
 You don't decide, and you don't say it's good or bad.
+You just affirm there must be these sides and you have to look for them and give it a name and you have to be able to talk about these things in a detached way.
 
-00:59:29.560 --> 00:59:35.624
-You just affirm there must be these sides and you have to look for them and give it a name and you
 
-00:59:35.624 --> 00:59:39.400
-have to be able to talk about these things in a detached way.
-
-00:59:42.520 --> 00:59:45.880
 The shadow of the new is racism in the 20th century.
 
-00:59:47.720 --> 00:59:49.960
-People of the new come back home and clean and funny.
+People of the new come back home and clean and funny Schemes 
 
-00:59:50.040 --> 01:00:00.994
-Schemes to places where serial objects of expressive forms and materiality and also both of them
+to places where serial objects of expressive forms and materiality 
 
-01:00:00.994 --> 01:00:04.760
-because they all know the common.
+and also both of them know. 
 
-01:00:05.400 --> 01:00:11.608
-I travelled to other places about 20 trillion of this words 120 trillion is circulates around the
+### the common.
 
-01:00:11.608 --> 01:00:12.440
+I travelled to other places 
+
+about 20 trillion of the world's 120 trillion is circulates around the
 token common.
 
-01:00:13.000 --> 01:00:16.200
 The expanding it's territory by production and doing better.
 
-01:00:17.240 --> 01:00:22.720
 It's sacred places of the common sounds around global golden objects of massivity.
 
-01:00:25.760 --> 01:00:29.440
+
 The politics of the common is done by the people operating in public.
 
-01:00:31.840 --> 01:00:39.360
-I don't think, for example, that this arena of 5000 people with the CCP in China has anything to do
-
-01:00:39.360 --> 01:00:40.880
-with our parliament.
-
-01:00:41.400 --> 01:00:46.845
+I don't think, for example, that this arena of 5000 people with the CCP in China has anything to do with our parliament.
 It's just a misreading and we have to look with these kind of structures to, to get an understanding
-
-01:00:46.845 --> 01:00:49.840
 for, for what what is going on, how they make politics.
-
-01:00:50.040 --> 01:00:54.960
-It's performing pretty well and it can't be without without competition and so on.
-
-01:00:54.960 --> 01:00:58.960
+It's performing pretty well and it can't be without competition and so on.
 And then competing different like us, it's completely in a completely different way.
-
-01:00:58.960 --> 01:01:01.080
 And we're able to fold it like that.
+We're able to to go in a mechanics which is algebraic to to be able to get into communication with them, which our mathematical friend Elias Zafiris called **natural communication**.
 
-01:01:01.080 --> 01:01:08.344
-We're able to to go in a mechanics which is algebraic to to be able to get into communication with
 
-01:01:08.344 --> 01:01:14.200
-them, which our mathematical friend Elias Zafiris called natural communication.
+The con is established in technocracies and threatened by the individual, which appears as unique events and bright sunlight.
 
-01:01:17.200 --> 01:01:22.675
-The con is established in technocracies and threatened by the individual, which appears as unique
-
-01:01:22.675 --> 01:01:24.200
-events and bright sunlight.
-
-01:01:24.520 --> 01:01:31.740
-So we have to take that series that I really don't like it as I don't like this obedience of the
-
-01:01:31.740 --> 01:01:33.320
-Hitler young peoples.
-
-01:01:34.080 --> 01:01:35.280
+So we have to take that series that I really don't like it as I don't like this obedience of the Hitler young peoples.
 It must be something like that.
-
-01:01:35.280 --> 01:01:35.720
 And we have to.
-
-01:01:36.080 --> 01:01:41.960
 We have to accept this problem, and we have to accept that the devil is always with us.
-
-01:01:43.120 --> 01:01:44.800
 You can't be without devil.
-
-01:01:46.840 --> 01:01:48.960
 Otherwise objects are not complete.
 
-01:01:49.560 --> 01:01:58.546
-People of the common come back home, lightweight and wealthy, 2 places dissolving in ritualistic
+People of the common come back home, lightweight and wealthy
 
-01:01:58.546 --> 01:02:03.320
-forms and above for them, because they all so know.
+to places dissolving in ritualistic forms 
 
-01:02:07.000 --> 01:02:13.639
-And here we are now, as architects in 2027, trying to give a face to the turbulences of our
+and I bow for them, because they also know.
 
-01:02:13.639 --> 01:02:14.880
-connected planet.
+And here we are now, as architects in 2027, trying to give a face to the turbulences of our connected planet. Everything is there all at once, but not here.
 
-01:02:15.080 --> 01:02:18.000
-Everything is there all at once, but not here.
+We look at the old.
 
-01:02:22.160 --> 01:02:23.280
-We lo get the OT.
+And the common 
 
-01:02:28.040 --> 01:02:43.502
-And the common they all know and I just want to, I just want to say nice meeting you and see you in
-
-01:02:43.502 --> 01:02:44.440
-Italy.
-
-01:02:44.520 --> 01:02:45.760
-This is where I continue.
-
-01:02:46.400 --> 01:02:49.440
-This is our villa based from Vitiera Academy.
-
-01:02:49.440 --> 01:02:58.330
-We will do Academy there and host the academic guests and renovation is almost finished and China,
-
-01:02:58.330 --> 01:03:03.320
-Nanjing Universe and Southeast University there we are.
-
-01:03:03.320 --> 01:03:05.320
-We will continue, but nice meeting you.
+they all know.
