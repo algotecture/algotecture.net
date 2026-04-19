@@ -289,230 +289,106 @@ So we get out of this dilemma that you need the budget of ETH for breakfast to p
 
 I think we are turning from a digital renaissance towards a Baroque.
 
-00:26:32.760 --> 00:26:38.920
-This is what we we start to speculate and this is what what we can learn from our culture.
-
-00:26:40.080 --> 00:26:44.164
-Now I want to speak about architecture with a voice connected to the world in liberation from the
-
-00:26:44.164 --> 00:26:44.880
+with a voice connected to the world in liberation from the
 conflicts around.
 
-00:26:45.840 --> 00:26:52.343
-Of course, it'd be the boat to take on the Bodgian predator Princess like Bolasaro, Bouquilla,
+Of course, it's bold to take on the Borgian Predator-Princes (Bolsonaro, Bukele,
+Milei, MbS, Trump) assaulting our society for increasingly successful raids.
 
-00:26:52.343 --> 00:26:58.640
-Milay, Mohabbin, Saad from who is assaulting our society for increasingly successful rates.
-
-00:26:59.600 --> 00:27:00.800
 But what can be done?
 
-00:27:02.880 --> 00:27:10.208
-There are the furious sharpenings of Varoufakis, the Know It All smiles of Mersheimer, the moral
-
-00:27:10.208 --> 00:27:16.240
+There are the furious sharpenings of Yanis Varoufakis, the Know It All smiles of Mersheimer, the moral
 therapies of Jeffrey Sachs, the the disturbing analysis of employee, and so on.
-
-00:27:16.240 --> 00:27:17.440
 And they have hundreds of them.
 
-00:27:17.920 --> 00:27:23.240
-They rose to sought to prominence, addressing pressing problems, and they're right with that.
-
-00:27:23.880 --> 00:27:28.200
+They rose to prominence, addressing pressing problems, 
 Yet their solutions are exclusive, meeting the expectations of the audiences.
-
-00:27:29.080 --> 00:27:35.600
 Such solutions will fail as their contractor victory in detail and no major view emerges.
-
-00:27:36.280 --> 00:27:39.680
 On the contrary, the more views they are, the more contradictory they get.
 
-00:27:40.480 --> 00:27:48.025
 And we have to admit that the predatory Princess they are right to the they are right to criticise
-
-00:27:48.025 --> 00:27:50.720
 already operates beyond this limit.
-
-00:27:51.160 --> 00:27:53.520
 So they're already beyond these criticisms.
-
-00:27:54.080 --> 00:27:55.680
 So you can't get them like this.
-
-00:27:57.200 --> 00:27:59.440
 This text is different, it tries not to get involved.
-
-00:27:59.920 --> 00:28:04.560
 There's no right or good, it will not stick to problems and it will not present solutions.
 
-00:28:05.200 --> 00:28:12.753
-My approach is architectural and it it is generous because it does not decide and it does not
+My approach is architectural and it is generous because it does not decide and it does not exclude. 
 
-00:28:12.753 --> 00:28:15.840
-exclude it at the price of complexity.
+At the price of complexity.
 
-00:28:17.840 --> 00:28:20.040
-Yeah, I want to show how far I'm able to go.
-
-00:28:20.280 --> 00:28:22.880
+Here I want to show how far I'm able to go.
 The endeavour will be fast, complicated and confusing.
-
-00:28:22.880 --> 00:28:26.680
-You will be not able to understand because it's not meant to be understand.
-
-00:28:26.920 --> 00:28:30.000
+You will be not able to understand it, because it's not meant to be understood.
 This text is climatic, it embraces the condition.
-
-00:28:30.360 --> 00:28:31.600
 Try to get the temperament.
+It will show a path to a civilised global coexistence.
+And that's exactly what I think **architecture** is about.
 
-00:28:31.600 --> 00:28:34.840
-It will show a pass to a civilised global coexistence.
-
-00:28:35.280 --> 00:28:37.840
-And that's exactly what I think architecture is about.
-
-00:28:39.400 --> 00:28:40.720
 So first, nice paradox.
 
-00:28:40.720 --> 00:28:42.160
-You can improve by doing better.
+### You Can't Improve by Doing Better
 
-00:28:44.120 --> 00:28:47.880
-I'm upset the war in Europe it does not stop.
-
-00:28:47.880 --> 00:28:52.840
+I'm upset. the war in Europe it does not stop.
 Escalate the whole world in quarantine for three months plus U.S.
-
-00:28:52.840 --> 00:28:56.840
 President threatening on daily base elites, powers and The Dirty secrets.
-
-00:28:56.840 --> 00:28:57.480
 Bombing rights.
 
-00:28:57.480 --> 00:29:02.240
 Get natural media reporting but are not reporting but hallucinating.
 
-00:29:02.840 --> 00:29:10.940
-And then this increasing number, the profit of $1 million per employee at meter 80,000 employees
-
-00:29:10.940 --> 00:29:13.640
-making 80 billion profit a year.
-
-00:29:15.000 --> 00:29:20.000
+And then this increasing number, the profit of $1 million per employee at meter 80,000 employees making 80 billion profit a year.
 This is another society, just this is wrong threatening.
-
-00:29:21.960 --> 00:29:23.400
-I'm talking as an European.
-
-00:29:23.440 --> 00:29:25.200
+I'm talking as a European.
 It must be similar at other places.
-
-00:29:25.960 --> 00:29:31.240
 Amhara, Mali, Gaza, Lebanon, Libya, Kivu, Mexico, Syria, Sudan.
-
-00:29:32.760 --> 00:29:37.160
 Yeah, my arguments are clashing and things are getting dangerous.
 
-00:29:37.600 --> 00:29:39.040
 They want me to get involved.
 
-00:29:39.120 --> 00:29:39.760
 I don't.
 
-00:29:39.920 --> 00:29:43.440
 They want me, my colour, my gender, my nation as an argument.
 
-00:29:44.000 --> 00:29:45.040
+
 It's getting cramped.
 
-00:29:45.120 --> 00:29:48.080
+
 I look around the Internet to search and enlarge language models.
 
-00:29:48.200 --> 00:29:49.160
+
 What are the clashes?
 
-00:29:49.200 --> 00:29:54.747
+
 Terrorism, energy sources, social justice, cybersecurity, globalization, disruption, polarisation,
-
-00:29:54.747 --> 00:30:00.067
 inequality, poverty, health crisis, human rights, protectionism, corruption, privacy, limit of
-
-00:30:00.067 --> 00:30:01.200
 growth, singularity.
-
-00:30:02.640 --> 00:30:04.680
 I easily can find hundreds of these.
-
-00:30:04.920 --> 00:30:10.836
 They all sound the same, with a biocratic and technocratic taste, made by experts and protected by
-
-00:30:10.836 --> 00:30:11.320
 legions.
-
-00:30:11.760 --> 00:30:13.040
 This is a rough condition.
-
-00:30:13.040 --> 00:30:14.600
 It feels like bad weather.
-
-00:30:15.120 --> 00:30:17.800
 I cannot say any see any shelter anywhere.
-
-00:30:17.800 --> 00:30:19.480
 I feel exposed and fainted.
 
-00:30:20.680 --> 00:30:21.960
+
 There should be a reason for this.
-
-00:30:22.040 --> 00:30:22.560
 Condition.
-
-00:30:23.400 --> 00:30:24.320
 How do I start?
-
-00:30:24.320 --> 00:30:28.280
 What about the media bias, Lack of activities and the terrorism.
-
-00:30:28.480 --> 00:30:33.940
 Diversity, fake news, corporate influence, lack of coverage, polarisation, diversiveness,
-
-00:30:33.940 --> 00:30:39.707
 accountability, research and universities, Lack of diversity, applicability, protection, bias,
-
-00:30:39.707 --> 00:30:45.720
 opportunism, funding, conflict of interest, excess of the data, Open Access, ethics, independence.
-
-00:30:46.000 --> 00:30:50.737
 I'm beginning to realise that it is total the tools, instruments, analysis, operations, environment,
+the climate, the temperament, the science and media, the enterprise, the politicians, the NGOs, the world's language, argumentations and debates.
 
-00:30:50.737 --> 00:30:55.428
-the climate, the temperament, the science and media, the enterprise, the politicians, the NGOs, the
-
-00:30:55.428 --> 00:30:57.560
-world's language, argumentations and debates.
-
-00:30:58.080 --> 00:30:59.800
 Imagining, planning, doing, thinking.
-
-00:30:59.800 --> 00:31:04.760
 Me, you, everybody, the cultures, history, the arts, everything is part of the same.
-
-00:31:04.760 --> 00:31:06.360
 I hesitate to use the word problem.
-
-00:31:06.840 --> 00:31:10.920
 Everything, everybody, every argument faces the same paradox.
-
-00:31:10.920 --> 00:31:12.560
 You can't improve by doing better.
-
-00:31:12.560 --> 00:31:13.360
 We are doomed.
 
-00:31:19.920 --> 00:31:20.720
-So now we can start.
+### 2nd Paradox
 
 00:31:25.080 --> 00:31:26.680
 I'm still looking for a common ground.
