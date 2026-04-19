@@ -4,9 +4,6 @@ inspired by the farewell lecture of Ludger Hoverstadt.
 
 ## Hello
 
-## It's all not here
-
-
 We are exposed to the technology and what we are currently witnessing gives us no reason to relax.
 On the contrary, the situation is escalating, but there's no way around.
 What I miss is the willingness to reflect.
@@ -266,82 +263,30 @@ It is not big and it is not massive.
 AI is climatic, it is an environmental.
 It is a condition, not a thing or an object.
 
-I also do not think in terms of Thiel's antichrist, the devil, is not a weapon, it is constituent.
+I also do not think in terms of Thiel's antichrist, the devil, is not a weapon; it is constituent.
 These discourses go fundamentally wrong.
+They demand subordination. and they refuse it.
 
-00:24:52.960 --> 00:24:55.840
-They demand subordination and they refuse it.
-
-00:24:57.280 --> 00:25:02.890
-Our cultures will learn to civilise AI, like to civilise the symbolicity of voices, writing or
-
-00:25:02.890 --> 00:25:04.800
-painting the predecessors of AI.
-
-00:25:05.920 --> 00:25:08.600
+Our cultures will learn to civilise AI, like to civilise the symbolicity of voices, writing or painting - the predecessors of AI.
 It is challenging, exhausting and will take a long time.
-
-00:25:08.640 --> 00:25:10.360
 Cultures know how to deal with it.
-
-00:25:11.240 --> 00:25:12.560
 It just needs patience.
 
-00:25:13.480 --> 00:25:18.280
-In terms of artificial personal, I think in terms of artificial personal intelligence and people
-
-00:25:18.280 --> 00:25:21.080
+In terms of artificial personal intelligence and people
 connected to the world with their own vernacular voices.
+This very humanistic idea.
 
-00:25:21.440 --> 00:25:21.960
-This very.
+This is a little tricky, but I still admire this story because it's one of the first which give hope.
 
-00:25:22.040 --> 00:25:23.160
-A humanistic idea.
-
-00:25:25.120 --> 00:25:31.265
-This is a little tricky, but I still admire this this this story because it's one of the first which
-
-00:25:31.265 --> 00:25:31.880
-give hope.
-
-00:25:32.320 --> 00:25:34.200
-So I like the recent story of Steinberger.
-
-00:25:34.200 --> 00:25:36.160
-He started in January 25.
-
-00:25:36.360 --> 00:25:39.720
+So I like the recent story of Steinberger. 
 He started in January 25, no money, remote Vienna.
-
-00:25:40.440 --> 00:25:45.120
 He finished six months later and presented Open Claw and it's playing over the big guys.
-
-00:25:46.440 --> 00:25:51.745
-So it's said that he went to California and not playing with the good guys and he's a good big guy,
-
-00:25:51.745 --> 00:25:54.640
-but there's hope single person can do it if they know.
-
-00:25:56.680 --> 00:25:58.520
+So it's said that he went to California and not playing with the good guys and he's a good big guy, but there's hope single person can do it if they know.
 So that's one of the first stories like this.
+So we get out of this dilemma that you need the budget of ETH for breakfast to play with the big guys.
 
-00:25:58.520 --> 00:26:06.935
-So we we get out of this dilemma that you need the budget of ETH for breakfast to play with the big
+## It's all not here
 
-00:26:06.935 --> 00:26:07.360
-guys.
-
-00:26:07.400 --> 00:26:07.640
-Yeah.
-
-00:26:12.200 --> 00:26:20.280
-So now you know the knot and then you get for the next 20 years knot.
-
-00:26:23.000 --> 00:26:26.280
-So you, you, you see, I'm really fond of Baroque.
-
-00:26:26.280 --> 00:26:31.720
 I think we are turning from a digital renaissance towards a Baroque.
 
 00:26:32.760 --> 00:26:38.920
