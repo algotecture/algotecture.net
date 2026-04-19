@@ -242,71 +242,31 @@ I cannot say that I particularly like that, but I cannot imagine otherwise.
 There's a specific power in it, and it looks like I'm living from it.
 ___
 
-The first 15 years that ETH had been authoric.
-It was a great time. 
-But I have to say that the last five to 10 years have become increasingly frustrating.
+The first 15 years that ETH had been authoric. It was a great time. 
+But the last 10 years have become increasingly frustrating.
 
 On one side, research and development went to the SuperTechnocrats, able to play pay billions for
 breakfast.
-
 On the other side, there's a common sense, friendly yet assertive in all shades.
 And it turns out that the bureaucratic mediocracy is working hand in hand with emergent technocrats.
-
-00:23:43.000 --> 00:23:46.120
 There's less and less space left for the idea of university to breathe.
+But this idea will come back.
 
-00:23:47.440 --> 00:23:49.160
-But this idea will come back, I'm sure.
 
-00:23:49.160 --> 00:23:53.560
-Universities are strong, and they're also strong arguments.
-
-00:23:53.920 --> 00:23:59.855
-There's the house learning curve, which will curb most exponential growth arising from categorical
-
-00:23:59.855 --> 00:24:02.520
-false assumptions that are made too hastily.
-
-00:24:03.040 --> 00:24:06.680
-I do not believe in singularity aliquots file that computers will take over.
-
-00:24:07.080 --> 00:24:10.160
-I do not follow the idea of an artificial general intelligence.
-
-00:24:10.560 --> 00:24:15.529
+They're also strong arguments. There's the Verhulst's learning curve, which will curb Moore's exponential growth arising from categorical false assumptions that are made too hastily.
+I do not believe in singularity à la Kurzweil file that computers will take over.
+I do not follow the idea of an AGI = artificial general intelligence.
 I cannot understand the big data centres worth 10s of billions bought by nuclear plants just to meet
-
-00:24:15.529 --> 00:24:17.120
 the capacity of the human brain.
-
-00:24:17.760 --> 00:24:21.120
 Something else categorically wrong for reasons beyond technology?
-
-00:24:21.120 --> 00:24:25.680
-Or what is about to claim that five AG is will be enough for our planet?
-
-00:24:26.480 --> 00:24:28.960
+Or what is about to claim that five AGI is will be enough for our planet?
 Is it even possible to lock up intelligence?
-
-00:24:30.840 --> 00:24:34.640
 Artificial intelligence is global and symbolic and it will be distributed.
-
-00:24:34.800 --> 00:24:37.280
 It is not big and it is not massive.
-
-00:24:37.720 --> 00:24:40.040
 AI is climatic, it is an environmental.
-
-00:24:40.200 --> 00:24:43.160
 It is a condition, not a thing or an object.
 
-00:24:44.200 --> 00:24:46.000
-I also do not think in terms of thieves.
-
-00:24:46.000 --> 00:24:49.520
-Antichrist, the devil, is not a weapon, it is constituent.
-
-00:24:50.520 --> 00:24:52.960
+I also do not think in terms of Thiel's antichrist, the devil, is not a weapon, it is constituent.
 These discourses go fundamentally wrong.
 
 00:24:52.960 --> 00:24:55.840
