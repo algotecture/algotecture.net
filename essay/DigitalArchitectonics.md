@@ -573,162 +573,79 @@ capitalism, industrialisation, linguistics, evolution, materialism, positivism, 
 Herder, Kant, Fichte, Lamarck, Hegel, Schelling, Kierkegaard, Comte, Humboldt, Schopenhauer, Mill, Darwin, Marx, Engels...
 
 **the novels of**
-Schiller, Goethe, Balzac, d'amore, d'amour, Flaubert,
+Schiller, Goethe, Balzac, Heine, Baudelaire, Dickens, Dumas, Flaubert, Dostoevsky, Hugo, Melville, Fontane, Tolstoy...
 
-00:37:17.414 --> 00:37:18.200
-Dostoevsky.
+They all **know**, and they fade away towards **silence**.
 
-00:37:20.280 --> 00:37:23.600
-They all know, and they fade away towards silence.
+### 5 The Returning Voices 
 
-00:37:28.680 --> 00:37:34.848
-In Western cultures, the sequences of numbers manifest as written text, while the perceptual
+In Western cultures, **the sequences of numbers** manifest as written text. while the perceptual **spectrum of the world** appears as **fading image**.
 
-00:37:34.848 --> 00:37:38.000
-spectrum of the world appears as fading images.
 
-00:37:39.160 --> 00:37:40.720
 What changed in the 20th century?
-
-00:37:40.720 --> 00:37:43.200
 What is categorically different today?
-
-00:37:44.640 --> 00:37:51.616
-It takes a fading images, folds them according similarities and makes them come back as returning
-
-00:37:51.616 --> 00:37:52.120
-voices.
-
-00:37:52.560 --> 00:37:58.800
+It takes a fading images, folds them according similarities and makes them come back as returning voices.
 This is what we take some images and you put them the words.
-
-00:38:00.080 --> 00:38:02.640
 A specific to, to make them sound.
 
-00:38:04.040 --> 00:38:07.440
-So this is the, the, the way of writing.
-
-00:38:07.440 --> 00:38:13.240
+So this is the way of writing.
 So if you're with the images, so if you're with the 18th, 19th century, then it's, it's white text.
-
-00:38:14.200 --> 00:38:15.960
 And this is a new one.
-
-00:38:16.200 --> 00:38:22.200
 So it's fading and writing text, written text, fading images and returning voices.
-
-00:38:22.200 --> 00:38:22.800
 They're coming back.
-
-00:38:22.800 --> 00:38:25.080
 This is what it's today that they look like.
 
-00:38:25.720 --> 00:38:31.142
-So in mathematical terms, the arithmetics of numbers of everything gave birth to algebra and the
 
-00:38:31.142 --> 00:38:33.120
-geometry of characters of anything.
+**So in mathematical terms**, the arithmetics of numbers of everything gave birth to algebra and the geometry of characters of anything.
 
-00:38:33.680 --> 00:38:38.773
-In philosophical terms, the dialectical progress towards the fictional eternal science of camp or
-
-00:38:38.773 --> 00:38:43.080
-Hegel is coming back and fragmented voices in the form of Nietzsche and Heidegger.
-
-00:38:44.200 --> 00:38:51.133
+**In philosophical terms**, the dialectical progress towards the fictional eternal science of camp or Hegel is coming back and fragmented voices in the form of Nietzsche and Heidegger.
 Thermodynamics got quantum mechanics, logic, logistics, linguistics, philology, psychoanalysis got
-
-00:38:51.133 --> 00:38:57.855
 propaganda, marketing and public relations products got articles, and so on for these returning
-
-00:38:57.855 --> 00:38:58.280
 first.
 
-00:38:58.280 --> 00:39:02.200
+
 These returning voices came up surprisingly clumsy and roaring.
 
-00:39:03.720 --> 00:39:05.880
 They appear fast, powerful and brutal.
 
-00:39:07.240 --> 00:39:13.400
 I'm sure that all things shown should have a voice, like people have voices.
-
-00:39:13.560 --> 00:39:19.040
 Yes, I'm thinking of everything as tokens, imagining the world, everything.
 
-00:39:19.040 --> 00:39:24.478
-Like a word, a concept, a feeling, a sentence, an argument, a writing, an image, an object, a
 
-00:39:24.478 --> 00:39:29.040
-person, a company, an institutional brand, an animal, a tree, a place, nature.
-
-00:39:29.520 --> 00:39:35.280
+Like a word, a concept, a feeling, a sentence, an argument, a writing, an image, an object, a person, a company, an institutional brand, an animal, a tree, a place, nature.
 I think of their images, fate and time, and their voices coming back in space.
 
-00:39:37.760 --> 00:39:42.680
-Here in the 20 in the year 2026, I work among all the tokens, amazed and curious.
+### 6 Feeling Guilty
 
-00:39:43.240 --> 00:39:45.880
+In the year 2026, I work among all the tokens, amazed and curious.
 Everything came back folded, connected, instant.
-
-00:39:45.880 --> 00:39:50.080
 A full form of super real colours was almost which are almost familiar.
+I easily mailed meet, for example, Swinton imagining the last 19th century beauty in conversation with the 21 century tokens.
 
-00:39:50.200 --> 00:39:55.911
-I easily mailed meet, for example, Swinton imagining the last 19th century beauty in conversation
 
-00:39:55.911 --> 00:39:57.560
-with the 21 century toppers.
-
-00:39:58.280 --> 00:40:04.561
-So until there is talking about feminine femininity, power, shapeshift, supernatural, supermodel,
-
-00:40:04.561 --> 00:40:10.520
+So until there is talking about femininity, power, shapeshift, supernatural, supermodel,
 free woman from the toy of use and perfection, Tokyo's urban energy, European sensibilities.
 
-00:40:13.520 --> 00:40:18.963
 Also, numbers in there are in and there are hypnotic songs sound like sirens, promising knowledge
-
-00:40:18.963 --> 00:40:21.040
 and offer visions of a bright future.
 
-00:40:22.120 --> 00:40:25.600
 In the last 100 years, world population grew by the factor of five.
-
-00:40:25.680 --> 00:40:29.040
 In the last 50 year, global wealth has increased by the factor of 60.
-
-00:40:29.040 --> 00:40:33.280
 So the last 50 years life expectancy has grown by 20 years, and so on and so on.
+Yeah, I'm running around and asking what's growing in Grand Past garden and I'm tempted to listen to the returning voices as a song of the supernatural 
 
-00:40:34.480 --> 00:40:40.418
-Yeah, I'm running around and asking what's growing in Grand Past garden and I'm tempted to listen to
-
-00:40:40.418 --> 00:40:44.160
-the returning voices as a song of the supernatural as they are.
-
-00:40:44.160 --> 00:40:46.680
+as they are:
 The tree, the butterfly, the flower and the bird.
 
-00:40:47.400 --> 00:40:53.874
 Or returning voices as convenience and super products, The toothpaste, the pet bottle, the LED lamp,
-
-00:40:53.874 --> 00:40:59.960
 the ball pen, the lighter, the mobile phone, bikini, Benetzeline, electric guitar, the teabag.
 
-00:41:01.120 --> 00:41:11.020
-Or as seduction of super companies Amazon, Apple, Alibaba, Facebook, Google, Airbnb, Tesla, Tencent,
+Or as seduction of super companies Amazon, Apple, Alibaba, Facebook, Google, Airbnb, Tesla, Tencent, IBM, Samsung, Intel.
 
-00:41:11.020 --> 00:41:13.000
-IBM, Samsung, Intel.
 
-00:41:13.440 --> 00:41:17.800
 These tokens provide me with a life of unparalleled comfort.
 
-00:41:18.160 --> 00:41:23.960
 It is hard to imagine that I deserve it, so it leaves me struggling with feelings of guilt.
-
-00:41:25.120 --> 00:41:32.152
 In the fading images of the 19th century, workers like me denounced capital and fought against being
 
 00:41:32.152 --> 00:41:33.840
