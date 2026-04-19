@@ -174,131 +174,54 @@ All the 20th century is full of AI and now it's getting very interesting.
 
 All it's architecture and masterpieces are of AI thinking.
 
-They are screens of ALL the others NOT. 
+They are screens of ALL that **NOT**
 
-Do you Remember the architecture before? Shinkles, Emperor Gagne, Bexton, Ruskin, Wagner, The 20th century
+Do you Remember the architecture before? Schinkel, Semper Garnier, Paxton, Ruskin, Viollet-le-Duc, Sullivan, Gaudi,...
 
-00:19:28.222 --> 00:19:34.760
-is all that not after another 10 years, another level of saturation.
+The 20th century is all that not.
 
-00:19:35.680 --> 00:19:38.840
-I was thinking in architecture, technology, mathematics and philosophy.
+after another 10 years, another level of saturation.
 
-00:19:38.840 --> 00:19:41.800
-Got stable time to come back to architecture.
+I was thinking in architecture, technology, mathematics and philosophy got stable. 
 
-00:19:42.280 --> 00:19:46.480
-His colleagues have have wrote a comprehensive Atlas on the digital anti architecture.
+Time to come back to architecture. 
 
-00:19:46.480 --> 00:19:53.688
-Very big thing, even even more heavier than 3 1/2 kilos of the book today, and with the help of the
+___
 
-00:19:53.688 --> 00:19:59.440
-old masters 502,000 years ago I wrote 10 books on architecture and the digital.
+the two propositions that are particularly occupy me today. 
 
-00:20:02.200 --> 00:20:06.440
-The last volume will come in summer.
+with AI all media collapse to text and AI meets architecture as a public talk.
 
-00:20:08.760 --> 00:20:14.760
-These are the proposition, the two propositions that are particularly occupy me today with AI.
-
-00:20:14.760 --> 00:20:20.120
-All media collapse to text and AI meets architecture as a public talk.
-
-00:20:22.040 --> 00:20:23.840
-About the visual, forget about the central.
-
-00:20:23.840 --> 00:20:26.320
+Forget About the visual, forget about the sensual.
 I like them of course, but I do not trust them.
-
-00:20:28.240 --> 00:20:29.480
 These are mere renderings.
 
-00:20:29.480 --> 00:20:31.320
 Architecture is above these arts.
-
-00:20:31.320 --> 00:20:32.360
 As the old masters say.
-
-00:20:33.480 --> 00:20:36.440
 Words can embrace a connected world by being not here.
-
-00:20:36.760 --> 00:20:38.840
 Images are flooding away with reality.
 
-00:20:40.560 --> 00:20:43.400
-And this is my my my current hero Ishigami.
+**METEORA**
 
-00:20:43.400 --> 00:20:48.000
-I'm not here at RIBA with a Meteora studio.
-
-00:20:48.000 --> 00:20:54.962
-We learnt and we will have exhibition and today drive with our party and in a book launch with a lot
-
-00:20:54.962 --> 00:20:57.400
-of students work of Meteora Studio.
-
-00:20:58.200 --> 00:21:02.652
-So we learnt the last seven years to play the idea of architecture with a new instrument of
-
-00:21:02.652 --> 00:21:03.680
+we learnt to play the idea of architecture with a new instrument of
 connected characters.
 
-00:21:03.680 --> 00:21:05.960
-I would say these are the posters.
-
-00:21:07.880 --> 00:21:13.755
 We used our AI tools on text, images and models to give students their personal architectural voice
-
-00:21:13.755 --> 00:21:15.120
 connected to the world.
-
-00:21:15.400 --> 00:21:20.854
 They've wrote public talks of the buildings towards the city and private whispers of the peoples as
-
-00:21:20.854 --> 00:21:21.240
 guests.
-
-00:21:22.000 --> 00:21:27.111
 They learnt not to start with a blank sheet of paper, worked with thousands of books and the words
-
-00:21:27.111 --> 00:21:32.118
 of the others, words of the masters of architecture, getting friends with them, with them across
-
-00:21:32.118 --> 00:21:32.640
 all times.
-
-00:21:33.360 --> 00:21:37.800
 Meteora is not about the new, it is about a masterful constellation of the connected.
 
-00:21:37.800 --> 00:21:40.880
-Things around the studio was most vivid.
-
-00:21:40.920 --> 00:21:45.360
-I'm grateful with Hocher, Hadil and Miro and all the students.
-
-00:21:45.360 --> 00:21:49.320
-No idea that I could develop these ideas about architecture by myself.
-
-00:21:49.920 --> 00:21:51.840
-The studio was a booster for all of us.
-
-00:21:51.960 --> 00:21:57.947
 We trusted in an approach to architecture which is radical, unprecedented and face says the
-
-00:21:57.947 --> 00:21:59.000
 globality of AI.
 
-00:21:59.160 --> 00:22:01.960
 We trust in the very principles of architecture itself.
 
-00:22:02.960 --> 00:22:05.000
 Normally computer streamlines design.
-
-00:22:05.000 --> 00:22:08.320
 It was always refused to think of computers as tools.
-
-00:22:09.600 --> 00:22:15.280
 Takes a famous parametric design, It develops the person unacceptable positivistic straight jacket.
 
 00:22:16.160 --> 00:22:17.840
