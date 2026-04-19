@@ -390,226 +390,145 @@ We are doomed.
 
 ### 2nd Paradox
 
-00:31:25.080 --> 00:31:26.680
 I'm still looking for a common ground.
-
-00:31:26.720 --> 00:31:28.480
 Things are connected like never before.
-
-00:31:28.480 --> 00:31:31.640
 I'm friend of a friend of a friend of almost every person on this planet.
-
-00:31:31.640 --> 00:31:38.244
 I say hi to Maradona, Angela Merkel, Barack Obama, Yvukachenko, the astronaut, a billionaire is a
-
-00:31:38.244 --> 00:31:40.560
 movie star, the Saint, the sniper.
-
-00:31:41.560 --> 00:31:45.160
 Also, every argument is proven right and wrong in a few steps.
-
-00:31:46.120 --> 00:31:47.400
 Lean proteins are healthy.
-
-00:31:47.400 --> 00:31:48.680
 Smoking kills migrants.
-
-00:31:48.680 --> 00:31:49.360
 Take your job.
-
-00:31:50.240 --> 00:31:52.320
 Urbanization increases pollution.
-
-00:31:53.240 --> 00:31:54.960
-If if we don't want to talk about Israel.
-
-00:31:54.960 --> 00:31:56.400
+If we don't want to talk about Israel.
 No peace without weapons.
 
-00:31:56.400 --> 00:31:58.480
 Saddam Hussein and the chemical weapons.
-
-00:31:59.600 --> 00:32:01.680
 Do I make things more complicated than they are?
-
-00:32:02.480 --> 00:32:03.240
 Look at my fridge.
-
-00:32:03.240 --> 00:32:10.047
-It's empty, the sun is shining, it's 1123, I'm hungry, My baby made the first step to **** of the
-
-00:32:10.047 --> 00:32:11.240
+It's empty, the sun is shining, it's 1123, I'm hungry, My baby made the first step to  of the
 dog in my garden.
-
-00:32:12.680 --> 00:32:15.640
 But still things are true and false.
-
-00:32:15.640 --> 00:32:16.160
 Yes and no.
 
-00:32:16.160 --> 00:32:20.120
 Left and right, black and white, hot and cold, hot and soft, spicy and mild.
 
-00:32:20.120 --> 00:32:20.880
 Visible and not.
 
-00:32:21.640 --> 00:32:23.160
-Paradox, that's the word for it.
-
-00:32:24.400 --> 00:32:25.080
+Paradox, 
+that's the word for it.
 Here's it again.
 
-00:32:25.080 --> 00:32:27.040
 The tricky turn, tricky light, the infinite.
 
-00:32:27.600 --> 00:32:28.680
-It is inverse friend.
+It is an inverse friend.
 
-00:32:28.880 --> 00:32:31.000
 The infinite is with the horizon far away.
 
-00:32:31.120 --> 00:32:32.320
 Then it's better than perfect.
 
-00:32:32.320 --> 00:32:33.240
 And there is the mass.
 
-00:32:33.760 --> 00:32:34.320
 The mass.
 
-00:32:34.320 --> 00:32:37.200
 Mastery came through games, comes through iterations.
 
-00:32:37.200 --> 00:32:40.040
 It's not infinite, but infinitely improvable.
 
-00:32:40.400 --> 00:32:41.600
 One breath at a time.
 
-00:32:41.600 --> 00:32:42.640
 Zero starts a line.
 
-00:32:42.640 --> 00:32:44.440
 Infinity writes the poem.
 
-00:32:44.440 --> 00:32:47.080
 Trust in God, but your camel 1st.
 
-00:32:47.080 --> 00:32:48.080
 And so on and so on.
 
-00:32:48.240 --> 00:32:49.160
 A hundreds of them.
 
-00:32:49.640 --> 00:32:54.960
-You know how it works, You just you have to take it.
+You know how it works, You just have to take it.
 
-00:32:55.080 --> 00:32:59.880
 Siri ist paradox.
 
-00:33:00.040 --> 00:33:02.880
 And that's invest to it and you have hundreds of them as well.
 
-00:33:03.160 --> 00:33:05.480
 Easy a whole book of it, if you like.
 
-00:33:06.160 --> 00:33:13.500
-A paradox is a labyrinthine and end this puzzle right here, present but not there, so close yet so
+A paradox is a labyrinthine and end this puzzle right here, **present but not there**, so close yet so far.
 
-00:33:13.500 --> 00:33:13.800
-far.
-
-00:33:13.800 --> 00:33:15.440
 Can see the forest for the trees.
-
-00:33:16.240 --> 00:33:20.200
 The more you look, the less you see the journey is a destination.
-
-00:33:21.200 --> 00:33:26.000
 So or you can't improve by doing better something like this.
 
-00:33:26.400 --> 00:33:30.960
-So it's absorbed if only a few things are connected.
+### Absurd
 
-00:33:31.000 --> 00:33:38.511
-I mean, this is good enough arguments can be true or false, but an environment without bounds we all
+if only a few things are connected.
+I mean, this is good enough arguments can be true or false, but an environment without bounds we all where all things are connected.
 
-00:33:38.511 --> 00:33:40.840
-where all things are connected.
-
-00:33:41.160 --> 00:33:42.320
-1 cannot decide.
-
-00:33:42.360 --> 00:33:47.000
+one cannot decide.
 All inclusive decisions are not possible if one affirms that everything is connected.
 
-00:33:47.000 --> 00:33:48.320
 Things are paradox.
 
-00:33:48.800 --> 00:33:53.000
-The This is a This condition is continued for our time.
+This condition is constitutive for our time.
 
-00:33:53.640 --> 00:33:59.230
-Albert Camus calls it's the absurd start with nothingness, heidegazine, Yelenic consumism,
+Kurt Hutton, Albert Camus and the absurd, 1952.
 
-00:33:59.230 --> 00:34:05.007
-Wittgenstein language, games, ambiguity, the Louis Azomatic gloriety, Epistem difference, the
+Albert Camus calls it the ABSURD
 
-00:34:05.007 --> 00:34:06.560
-electrical phenomenology.
+Jean-Paul Sartre — NOTHINGNESS
 
-00:34:07.080 --> 00:34:14.344
+Martin Heidegger — SEIN
+
+Elfriede Jelinek — CONSUMISM
+
+Ludwig Wittgenstein — LANGUAGE GAME
+
+Michel Serres — AMBIGUITY
+
+Gilles Deleuze — RHIZOMATIC
+
+Hannah Arendt — PLURALITY
+
+Michel Foucault — EPISTEME
+
+Jacques Derrida — DIFFERENCE
+
+Theodor Adorno — DIALECTICAL
+
+Maurice Merleau-Ponty — PHENOMENOLOGY
+
+Wittgenstein language, games, ambiguity, the Louis Azomatic gloriety, Epistem difference, the electrical phenomenology.
+
 This concept I once was so familiar with, peace, Dignity, Health, equality, harmony, respect,
-
-00:34:14.344 --> 00:34:20.360
 integrity, honour or prosperity, balance, justice, parity, unity, solidarity.
-
-00:34:21.200 --> 00:34:23.360
 I'm beginning to think of them as absurd.
 
-00:34:23.840 --> 00:34:25.240
 I do not get rid of them.
-
-00:34:25.240 --> 00:34:29.320
 On the contrary, I expect them a lot like a complex persona.
-
-00:34:29.760 --> 00:34:31.360
 They are uniquely valuable.
-
-00:34:31.480 --> 00:34:37.910
 Still, the absurd comes with a level of alienation, to be friendly discussed, to be drastic humours
-
-00:34:37.910 --> 00:34:39.080
 if they come back.
 
-00:34:40.120 --> 00:34:43.040
+
 And I looked like these buildings as absurd.
-
-00:34:45.680 --> 00:34:46.640
 What else do we have?
-
-00:34:46.760 --> 00:34:49.000
 All the 20th century is driven by this.
-
-00:34:49.000 --> 00:34:52.640
-Lewis, Kobisi, Venturi, Benham, Rossi, Tafuri, Kolos.
-
-00:34:53.640 --> 00:34:55.280
+Loos, Corbusier, Venturi, Bonham, Rossi, Tafuri, Koolhaas.
 Nice line of my heroes.
 
-00:34:56.400 --> 00:34:57.480
+
 Not without reason.
 
-00:34:57.480 --> 00:35:03.784
 Yet these terms peace, dignity, health, equality and so on, which were once so filling my familiar
-
-00:35:03.784 --> 00:35:05.200
 to me, feel alien now.
 
-00:35:08.680 --> 00:35:11.000
-The mathemes are doing different from us.
+### 4 Fading Away
 
-00:35:11.000 --> 00:35:17.027
+The machines are doing different from us.
+
+
 They take all books, all text written, They take whatever can they can get from all media, all
 
 00:35:17.027 --> 00:35:19.080
