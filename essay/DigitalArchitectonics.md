@@ -461,7 +461,7 @@ Can see the forest for the trees.
 The more you look, the less you see the journey is a destination.
 So or you can't improve by doing better something like this.
 
-### Absurd
+### Absurd
 
 if only a few things are connected.
 I mean, this is good enough arguments can be true or false, but an environment without bounds we all where all things are connected.
@@ -528,89 +528,52 @@ to me, feel alien now.
 
 The machines are doing different from us.
 
-
 They take all books, all text written, They take whatever can they can get from all media, all
-
-00:35:17.027 --> 00:35:19.080
 domains, all eras, all cultures.
-
-00:35:20.000 --> 00:35:23.600
-The word, the word peace appears millions and millions of times.
-
-00:35:24.040 --> 00:35:25.240
+The word *peace* appears millions and millions of times.
 It is around everywhere.
-
-00:35:25.240 --> 00:35:26.480
 It covers the planet.
-
-00:35:26.920 --> 00:35:31.920
 No way to read all this, no chance to understand it in all aspects but machines.
-
-00:35:31.920 --> 00:35:32.960
 Just count them.
-
-00:35:32.960 --> 00:35:36.520
 Each word is considered a token labeled with a number.
-
-00:35:36.760 --> 00:35:41.400
 Sentences are sequences of numbers then, and it's millions of sequences.
-
-00:35:41.400 --> 00:35:44.240
 The tokens repeatedly encounter other tokens.
 
-00:35:44.680 --> 00:35:51.248
-These frequency numbers convey the world's perceptual spectral spectrum of the perceptual spectrum
+***These frequency numbers convey the word's perceptual spectrum of the world.***
 
-00:35:51.248 --> 00:35:52.120
-of the world.
+The spectrum of a token embracing the world in frequencies.
 
-00:35:52.880 --> 00:35:55.000
 So this is for example now.
 
-00:35:55.000 --> 00:36:03.280
 Now this is climate change thing, but I imagine this as a metaphor for, for example, the word peace.
 
-00:36:05.240 --> 00:36:11.385
-And it's a spectrum of token around the world embracing the word in frequency, the word in
+And it's a spectrum of token around the world embracing the word in frequency, the word in frequency, That's the word spectrum of the word peace, for example.
 
-00:36:11.385 --> 00:36:15.960
-frequency, That's the word spectrum of the word peace, for example.
-
-00:36:16.920 --> 00:36:19.200
 And there's not only one spectrum, there are millions of them.
-
-00:36:19.680 --> 00:36:24.360
 There's one spectrum paired token, and you even can make your own ones.
-
-00:36:25.760 --> 00:36:30.520
 And taking a step back and imagine all tokens embracing the world in all their colours.
 
-00:36:30.840 --> 00:36:37.471
-This would be an image of white noise, a peaceful silent at the end of time where all calculations
-
-00:36:37.471 --> 00:36:38.080
-are done.
-
-00:36:38.800 --> 00:36:42.840
+This would be an image of white noise, a peaceful silent at the end of time where all calculations are done.
 These are the bounds of the of the real, of numbers, the limits of computability.
 
-00:36:43.680 --> 00:36:45.640
 And I, the Westerner.
-
-00:36:45.640 --> 00:36:53.071
-I'm wondering if the 19th century concept of reality was ever different from fading images on their
-
-00:36:53.071 --> 00:36:56.600
+I'm wondering if the 19th century concept of **reality** was ever different from **fading images** on their
 way towards an eternal future state of silence.
 
-00:36:57.000 --> 00:37:03.923
-Images of engineering, education, science, history, creativity, logic, nature, the conceptions of
+**The Images of** 
 
-00:37:03.923 --> 00:37:10.705
-capitalism, industrialisation, linguistics, evolution, materialism, positivism, the writings of
+engineering, education, science, history, creativity, logic, nature...
 
-00:37:10.705 --> 00:37:17.414
-Hadak, Khan, Fitz de Lamarck, the novels of Sheila, Greta, Balzac, d'amore, d'amour, Flaubert,
+**the conceptions of**
+
+capitalism, industrialisation, linguistics, evolution, materialism, positivism, utilitarianism, Marxism...
+
+**the writings of**
+
+Herder, Kant, Fichte, Lamarck, Hegel, Schelling, Kierkegaard, Comte, Humboldt, Schopenhauer, Mill, Darwin, Marx, Engels...
+
+**the novels of**
+Schiller, Goethe, Balzac, d'amore, d'amour, Flaubert,
 
 00:37:17.414 --> 00:37:18.200
 Dostoevsky.
