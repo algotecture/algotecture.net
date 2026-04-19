@@ -222,72 +222,34 @@ We trust in the very principles of architecture itself.
 
 Normally computer streamlines design.
 It was always refused to think of computers as tools.
-Takes a famous parametric design, It develops the person unacceptable positivistic straight jacket.
+Takes a famous parametric design: It developed towards an unacceptable positivistic straight jacket.
 
-00:22:16.160 --> 00:22:17.840
-I really dislike it.
-
-00:22:19.080 --> 00:22:22.880
-This was a mainstream for for 10-15 years of my career.
-
-00:22:25.160 --> 00:22:28.200
-Here in Meteora, we experienced the opposite.
-
-00:22:28.200 --> 00:22:33.298
+In Meteora, we experienced the opposite.
 Free from the constraint of images and open field is showing up, the students are able to articulate
-
-00:22:33.298 --> 00:22:35.440
 their architecture in most different ways.
-
-00:22:36.000 --> 00:22:39.000
 It was beautiful to see that this is the way architecture will go.
 
-00:22:39.000 --> 00:22:43.760
-I'm pretty sure I never.
-
-00:22:44.040 --> 00:22:46.800
 I've never been able to build anything by myself.
-
-00:22:47.520 --> 00:22:49.960
 I'm standing too far on the sideline for that.
 
-00:22:50.640 --> 00:22:52.600
 I trust symbols more than reality.
-
-00:22:52.600 --> 00:22:55.720
 Symbols are crystalline, unbound, and fast, like computers.
 
-00:22:56.480 --> 00:23:01.706
 A lot of people I have met were fascinated, but they couldn't quite trust me because this thinking
-
-00:23:01.706 --> 00:23:02.880
 is not applied enough.
 
-00:23:03.320 --> 00:23:07.160
 I cannot say that I particularly like that, but I cannot imagine otherwise.
-
-00:23:07.720 --> 00:23:11.400
 There's a specific power in it, and it looks like I'm living from it.
+___
 
-00:23:12.760 --> 00:23:15.320
 The first 15 years that ETH had been authoric.
-
-00:23:15.840 --> 00:23:17.920
-It was a great time, I have to say.
-
-00:23:18.240 --> 00:23:23.000
+It was a great time. 
 But I have to say that the last five to 10 years have become increasingly frustrating.
 
-00:23:23.320 --> 00:23:28.873
-On one side, research and development went to the Super technocrats, able to play pay billions for
-
-00:23:28.873 --> 00:23:29.440
+On one side, research and development went to the SuperTechnocrats, able to play pay billions for
 breakfast.
 
-00:23:30.480 --> 00:23:35.360
 On the other side, there's a common sense, friendly yet assertive in all shades.
-
-00:23:36.440 --> 00:23:41.720
 And it turns out that the bureaucratic mediocracy is working hand in hand with emergent technocrats.
 
 00:23:43.000 --> 00:23:46.120
