@@ -896,21 +896,19 @@ It's just a misreading and we have to look with these kind of structures to, to 
 for, for what what is going on, how they make politics.
 It's performing pretty well and it can't be without competition and so on.
 And then competing different like us, it's completely in a completely different way.
-And we're able to fold it like that.
-We're able to to go in a mechanics which is algebraic to to be able to get into communication with them, which our mathematical friend Elias Zafiris called **natural communication**.
+And we're able to fold it.
+We're able to go into mechanics which is algebraic to be able to get into communication with them, which Elias Zafiris called **natural communication**.
 
 
 The con is established in technocracies and threatened by the individual, which appears as unique events and bright sunlight.
 
-So we have to take that series that I really don't like it as I don't like this obedience of the Hitler young peoples.
+So we have to take that series that I really don't like it. as I don't like this obedience of the Hitler Youth.
 It must be something like that.
-And we have to.
 We have to accept this problem, and we have to accept that the devil is always with us.
-You can't be without devil.
-Otherwise objects are not complete.
+You can't be without the devil.
+Otherwise, objects are not complete.
 
-People of the common come back home, lightweight and wealthy
-
+People of the common come back home, lightweight and wealthy.
 to places dissolving in ritualistic forms 
 
 and I bow for them, because they also know.
@@ -919,6 +917,6 @@ And here we are now, as architects in 2027, trying to give a face to the turbule
 
 We look at the old.
 
-And the common 
+And the common.
 
-they all know.
+They all know.
