@@ -34,10 +34,10 @@ We turned towards principal computer science, mathematics, and philosophy, match
 ### NOT
 
 The Swiss architect **Fritz Haller** - the **MANIERIST** among **Functionalists**. 
-He has turned every known construction around and created his generic **NODE**
-wich is **ALL** of the known constructions **NOT**.
+He has turned every known construction around and created his generic **NODE**,
+which is **ALL** of the known constructions **NOT**.
 
-I learnt from him to trust in this inversion. Therefore I'm reading computers as and every machine, **NOT**.
+I learnt from him to trust in this inversion. Therefore, I'm reading computers as and every machine, **NOT**.
 
 A **NOT** like Everything, Everywhere, all at Once. A turn towards **ALL NOT** strikingly complicated to get. But it is essential.
 
