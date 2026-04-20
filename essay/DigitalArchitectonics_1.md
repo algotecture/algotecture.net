@@ -1,6 +1,6 @@
 # Digital Architectonics
 
-inspired by the farewell lecture of Ludger Hoverstadt.
+inspired by [the farewell lecture of Ludger Hoverstadt.](https://youtu.be/6dSGnPp6erk)
 
 *The willingness to reflect.*
 
@@ -31,6 +31,8 @@ It was also the time when the new colleagues at ETH began to take computers seri
 We turned towards principal computer science, mathematics, and philosophy, matching architectural theory.
 
 ___
+
+## NOT
 
 The Swiss architect **Fritz Haller** - the **MANIERIST** among **Functionalists**. 
 He has turned every known construction around and created his generic **NODE**
