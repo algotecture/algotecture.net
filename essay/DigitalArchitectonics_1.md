@@ -7,8 +7,7 @@ inspired by the farewell lecture of Ludger Hoverstadt.
 ## Hello
 
 We are exposed to the technology, and we're seeing no reason to relax.
-The situation is escalating, and there is no way around.
-
+The situation is escalating, and there is no way around. 
 What is missing is the willingness to reflect. First, there's always a defence, then the dam breaks.
 
 There's never enough thinking, not beforehand, not afterwards.
@@ -31,16 +30,15 @@ It was also the time when the new colleagues at ETH began to take computers seri
 
 We turned towards principal computer science, mathematics, and philosophy, matching architectural theory.
 
-### Fritz Haller
-The Swiss architect Fritz Haller - the **MANIERIST** among **Functionalists**. 
+___
+
+The Swiss architect **Fritz Haller** - the **MANIERIST** among **Functionalists**. 
 He has turned every known construction around and created his generic **NODE**
 wich is **ALL** of the known constructions **NOT**.
 
-I learnt from him to trust in this inversion.
-Therefore I'm therefore I'm reading computers as and every machine **NOT**.
+I learnt from him to trust in this inversion. Therefore I'm reading computers as and every machine, **NOT**.
 
-A **NOT** like Everything, Everywhere, all at Once. a turn towards all, not strikingly complicated to
-get, but it is essential.
+A **NOT** like Everything, Everywhere, all at Once. A turn towards **ALL NOT** strikingly complicated to get. But it is essential.
 
 It is a POINT, a ZERO, an ATOM, an ELEMENT, a RENAISSANCE. 
 
@@ -99,10 +97,13 @@ for u in range(ite + 1):
 * `Nearest` in Mathematica maps to `argmin` over Euclidean distance in Python.
 
 
-This is the our AI code, of Kohonan 1982 is a little poem called a Self Organising Map,
+This AI code, of Kohonan 1982 is a little poem called a Self Organising Map,
 incorporates and forgets **EVERYthing** to be able to face **ANYthing**.
 
+
 It's a pulsating heart, an oscillating crystal, which makes what we call intelligence Today.
+
+
 
 Google's page rank is even simpler:
 
@@ -135,8 +136,9 @@ def step_iter(r, M2, tp, alpha, tol, maxIter):
 
     return r / np.sum(r)
 ```
-They made a trillion worth company with this thing.
+They made a trillion-dollar worth company with this thing.
 ___
+
 
 **Artificial Intelligence** is not about **LEARNING**, it is an inversion of it. 
 It is about **FORGETTING**.
@@ -147,47 +149,38 @@ It is an important result of our research.
 Fritz Haller: *the confidence in the **INVERSION** of things to the
 very **ELEMENT** and the liberating power of it.*
 
-The architect projected to the **jointing things** of today.
+The architect projected to the **jointing things** of today: it's a transformation of his architecture from the 60s and the 80s to the conditions of today.
 
-So it's a transformation of his architecture from the 60s and the 80s to the conditions of today.
 
 ___
+
 AI is not an invention of the last five or 20 years.
 AI is not the monster machines and the heavy infrastructure of the day which demands submission.
 These machines are an inconvenient distortion of our recent time.
 They will go away. AI is not new and AI is not big.
 
-AI shows the term from set theory to group theory with Galois back in 1832, from stochastic to
-probabilistic by Markov from 1913.
-This is how he went with his poem from Pushkin and counted all the characters like Google is now
-doing.
+AI shows the term from set theory to group theory with Galois back in 1832, from stochastic to probabilistic by Markov from 1913.
+This is how he went with his poem from Pushkin and counted all the characters like Google is now doing.
 
-Now I know that AI thinking starts around 1900.
-
-All the 20th century is full of AI and now it's getting very interesting.
-
+The 20th century is full of AI and now it's getting very interesting.
 All it's architecture and masterpieces are of AI thinking.
 
-They are screens of ALL that **NOT**
 
-Do you Remember the architecture before? Schinkel, Semper Garnier, Paxton, Ruskin, Viollet-le-Duc, Sullivan, Gaudi,...
+They are screens of **ALL** the others **NOT**
 
-The 20th century is all that not.
 
-after another 10 years, another level of saturation.
+Do you Remember the architecture before? Schinkel, Semper, Garnier, Paxton, Ruskin, Viollet-le-Duc, Sullivan, Gaudi,...
 
-I was thinking in architecture, technology, mathematics and philosophy got stable. 
-
-Time to come back to architecture. 
+The 20th century is all that **NOT**.
 
 ___
 
-the two propositions that are particularly occupy me today. 
+The two propositions that are particularly occupy me today. 
 
 with AI all media collapse to text and AI meets architecture as a public talk.
 
-Forget About the visual, forget about the sensual.
-I like them of course, but I do not trust them.
+Forget about the visual, forget about the sensual.
+I like them, but I do not trust them.
 These are mere renderings.
 
 Architecture is above these arts.
@@ -195,32 +188,29 @@ As the old masters say.
 Words can embrace a connected world by being not here.
 Images are flooding away with reality.
 
+*With "I’m not here" Junya Ishigami first attracted attention with his invisible architecture; now, through exploration of landscape, memory and scale, it is the architect himself who is disappearing.*
+
+
 **METEORA**
 
 We learnt to play with the idea of architecture with a new instrument of
 connected characters.
 
-We used our AI tools on text, images and models to give students their personal architectural voice
-connected to the world.
-They've wrote public talks of the buildings towards the city and private whispers of the peoples as
-guests.
+We used our AI tools on text, images and models to give students their personal architectural voice connected to the world.
+They wrote public talks of the buildings towards the city and private whispers of the people as guests.
 They learnt not to start with a blank sheet of paper, worked with thousands of books and the words
-of the others, words of the masters of architecture, getting friends with them, with them across
-all times.
-Meteora is not about the new, it is about a masterful constellation of the connected.
+of the others, words of the masters of architecture, getting friends with them, with them across all times.
+Meteora is not about the new, it is about a masterful constellation of the connected things around.
 
-We trusted in an approach to architecture which is radical, unprecedented and face says the
-globality of AI.
+We trusted in an approach to architecture which is radical, unprecedented and face says the globality of AI. We trust in the very principles of architecture itself.
 
-We trust in the very principles of architecture itself.
-
-Normally computer streamlines design.
+Normally, a computer streamlines design.
 It was always refused to think of computers as tools.
-Takes a famous parametric design: It developed towards an unacceptable positivistic straight jacket.
+Takes a famous parametric design: It developed towards an unacceptable positivistic straitjacket.
 
 In Meteora, we experienced the opposite.
-Free from the constraint of images and open field is showing up, the students are able to articulate
-their architecture in most different ways.
+
+Free from the constraint of images and open field is showing up, the students are able to articulate their architecture in most different ways.
 It was beautiful to see that this is the way architecture will go.
 
 I've never been able to build anything by myself.
@@ -229,18 +219,16 @@ I'm standing too far on the sideline for that.
 I trust symbols more than reality.
 Symbols are crystalline, unbound, and fast, like computers.
 
-A lot of people I have met were fascinated, but they couldn't quite trust me because this thinking
-is not applied enough.
+A lot of people I have met were fascinated, but they couldn't quite trust me because this thinking is not applied enough.
 
 I cannot say that I particularly like that, but I cannot imagine otherwise.
 There's a specific power in it, and it looks like I'm living from it.
 ___
 
-The first 15 years that ETH had been authoric. It was a great time. 
+The first 15 years at ETH had been euphoric. It was a great time. 
 But the last 10 years have become increasingly frustrating.
 
-On one side, research and development went to the SuperTechnocrats, able to play pay billions for
-breakfast.
+On one side, research and development went to the SuperTechnocrats, able to pay billions for breakfast.
 On the other side, there's a common sense, friendly yet assertive in all shades.
 And it turns out that the bureaucratic mediocracy is working hand in hand with emergent technocrats.
 There's less and less space left for the idea of university to breathe.
@@ -250,9 +238,9 @@ But this idea will come back.
 They're also strong arguments. There's the Verhulst's learning curve, which will curb Moore's exponential growth arising from categorical false assumptions that are made too hastily.
 I do not believe in singularity à la Kurzweil file that computers will take over.
 I do not follow the idea of an AGI = artificial general intelligence.
-I cannot understand the big data centres worth 10s of billions bought by nuclear plants just to meet
-the capacity of the human brain.
-Something else categorically wrong for reasons beyond technology?
+I cannot understand the big data centres worth 10s of billions bought by nuclear plants just to meet the capacity of the human brain.
+Something else categorically wrong for reasons beyond technology.
+
 Or what is about to claim that five AGI is will be enough for our planet?
 Is it even possible to lock up intelligence?
 Artificial intelligence is global and symbolic and it will be distributed.
@@ -262,7 +250,8 @@ It is a condition, not a thing or an object.
 
 I also do not think in terms of Thiel's antichrist, the devil, is not a weapon; it is constituent.
 These discourses go fundamentally wrong.
-They demand subordination. and they refuse it.
+They demand subordination. 
+
 
 Our cultures will learn to civilise AI, like to civilise the symbolicity of voices, writing or painting - the predecessors of AI.
 It is challenging, exhausting and will take a long time.
@@ -272,15 +261,6 @@ It just needs patience.
 In terms of artificial personal intelligence and people
 connected to the world with their own vernacular voices.
 This very humanistic idea.
-
-This is a little tricky, but I still admire this story because it's one of the first which give hope.
-
-So I like the recent story of Steinberger. 
-He started in January 25, no money, remote Vienna.
-He finished six months later and presented Open Claw and it's playing over the big guys.
-So it's said that he went to California and not playing with the good guys and he's a good big guy, but there's hope single person can do it if they know.
-So that's one of the first stories like this.
-So we get out of this dilemma that you need the budget of ETH for breakfast to play with the big guys.
 
 ## It's all not here
 
