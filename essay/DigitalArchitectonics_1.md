@@ -1,6 +1,6 @@
 # Digital Architectonics
 
-inspired by [the farewell lecture of Ludger Hoverstadt.](https://youtu.be/6dSGnPp6erk)
+inspired by [the farewell lecture of Ludger Hoverstadt "What is architecture, if computers create what we think architecture is?"](https://youtu.be/6dSGnPp6erk)
 
 *The willingness to reflect.*
 
