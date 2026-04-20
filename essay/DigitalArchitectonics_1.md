@@ -386,18 +386,14 @@ The infinite is with the horizon far away:
 Done is better than perfect...
 Embrace the mess; Mastery cames through iteration... it's not infinite, but infinitive improvable... One breath at a time.
 Zero starts a line; Infinity writes the poem...
-Trust in God, but your camel first.
-
-And that's invest to it and you have hundreds of them as well.
-
-Easy a whole book of it, if you like.
+Trust in God, but your camel first...
 
 A paradox is a labyrinthine and end this puzzle right here, **present but not there**, so close yet so far.
 
 Can see the forest for the trees.
 The more you look, the less you see, the journey is a destination.
 
-you can't improve by doing better something like this.
+you can't improve by doing better...
 
 ### 3 Absurd
 
@@ -459,19 +455,19 @@ Nice line of my heroes.
 
 Not without reason.
 
-Yet these terms peace, dignity, health, equality and so on, which were once so filling my familiar
-to me, feel alien now.
+Yet these terms peace, dignity, health, equality and so on, which were once so filling my familiar to me, feel alien now.
 
 ### 4 Fading Away
 
 The machines are doing different from us.
 
-They take all books, all text written, They take whatever can they can get from all media, all
-domains, all eras, all cultures.
+They take all books, all text written, They take whatever they can get - from all media, all domains, all eras, all cultures.
+
 The word *peace* appears millions and millions of times.
-It is around everywhere.
+
+It is everywhere.
 It covers the planet.
-No way to read all this, no chance to understand it in all aspects but machines.
+No way to read all this, no chance to understand it in all aspects but machines
 Just count them.
 Each word is considered a token labeled with a number.
 Sentences are sequences of numbers then, and it's millions of sequences.
@@ -481,21 +477,17 @@ The tokens repeatedly encounter other tokens.
 
 The spectrum of a token embracing the world in frequencies.
 
-So this is for example now.
+It's a spectrum of tokens around the world, each embracing the word through its frequency—a spectrum of the word "peace," for example.
 
-Now this is climate change thing, but I imagine this as a metaphor for, for example, the word peace.
-
-And it's a spectrum of token around the world embracing the word in frequency, the word in frequency, That's the word spectrum of the word peace, for example.
-
-And there's not only one spectrum, there are millions of them.
-There's one spectrum paired token, and you even can make your own ones.
+And there's not only one spectrum, but there are millions of them.
+There's one spectrum per token, and you can make your own ones.
 And taking a step back and imagine all tokens embracing the world in all their colours.
 
 This would be an image of white noise, a peaceful silent at the end of time where all calculations are done.
 These are the bounds of the of the real, of numbers, the limits of computability.
 
 And I, the Westerner.
-I'm wondering if the 19th century concept of **reality** was ever different from **fading images** on their
+I'm wondering if the 19th century concept of **reality** was ever different from **fading images** on their 
 way towards an eternal future state of silence.
 
 **The Images of** 
@@ -522,47 +514,43 @@ In Western cultures, **the sequences of numbers** manifest as written text. whil
 
 What changed in the 20th century?
 What is categorically different today?
-It takes a fading images, folds them according similarities and makes them come back as returning voices.
-This is what we take some images and you put them the words.
-A specific to, to make them sound.
+___
+**It takes a fading images, folds them according similarities and makes them come back as returning voices.**
+___
 
-So this is the way of writing.
-So if you're with the images, so if you're with the 18th, 19th century, then it's, it's white text.
-And this is a new one.
-So it's fading and writing text, written text, fading images and returning voices.
-They're coming back.
-This is what it's today that they look like.
+**So in mathematical terms**: the arithmetic of numbers of everything gave birth to algebra and the geometry of characters of anything...
 
+**In philosophical terms**: the dialectical progress towards the fictional eternal science of Kant or Hegel is coming back in fragmented voices in the form of Nietzsche and Heidegger.
 
-**So in mathematical terms**, the arithmetics of numbers of everything gave birth to algebra and the geometry of characters of anything.
-
-**In philosophical terms**, the dialectical progress towards the fictional eternal science of camp or Hegel is coming back and fragmented voices in the form of Nietzsche and Heidegger.
-Thermodynamics got quantum mechanics, logic, logistics, linguistics, philology, psychoanalysis got
-propaganda, marketing and public relations products got articles, and so on for these returning
-first.
+Thermodynamics got quantum mechanics...
+logic got logistics... 
+linguistics got philology...
+psychoanalysis got propaganda, marketing and public relations...
+products got articles... 
 
 
-These returning voices came up surprisingly clumsy and roaring.
+first These returning voices came up surprisingly clumsy and roaring.
 
 They appear fast, powerful and brutal.
 
 I'm sure that all things shown should have a voice, like people have voices.
-Yes, I'm thinking of everything as tokens, imagining the world, everything.
 
+Yes
+
+I'm thinking of everything as tokens, imagining the world, everything.
 
 Like a word, a concept, a feeling, a sentence, an argument, a writing, an image, an object, a person, a company, an institutional brand, an animal, a tree, a place, nature.
-I think of their images, fate and time, and their voices coming back in space.
+
+**I think of their images, fade in time, and their voices coming back in space.**
 
 ### 6 Feeling Guilty
 
 In the year 2026, I work among all the tokens, amazed and curious.
-Everything came back folded, connected, instant.
+Everything came back - folded, connected, instant.
 A full form of super real colours was almost which are almost familiar.
-I easily mailed meet, for example, Swinton imagining the last 19th century beauty in conversation with the 21 century tokens.
+I easily mailed meet, for example, Swinton, imagining the last 19th century beauty in conversation with the 21 century tokens.
 
-
-So until there is talking about femininity, power, shapeshift, supernatural, supermodel,
-free woman from the toy of use and perfection, Tokyo's urban energy, European sensibilities.
+So until there is talking about femininity, power, shapeshifting, supernatural, supermodel, free woman from the toy of use and perfection, Tokyo's urban energy, European sensibilities.
 
 Also, numbers in there are in and there are hypnotic songs sound like sirens, promising knowledge
 and offer visions of a bright future.
@@ -570,7 +558,9 @@ and offer visions of a bright future.
 In the last 100 years, world population grew by the factor of five.
 In the last 50 year, global wealth has increased by the factor of 60.
 So the last 50 years life expectancy has grown by 20 years, and so on and so on.
-Yeah, I'm running around and asking what's growing in Grand Past garden and I'm tempted to listen to the returning voices as a song of the supernatural 
+
+I'm running around and asking "what's growing in Grandpa's garden?" 
+and I'm tempted to listen to the returning voices as a song of the supernatural 
 
 as they are:
 The tree, the butterfly, the flower and the bird.
@@ -597,78 +587,82 @@ That is why these tokens caught my interest.
 *Finance, resources (minirals, energy, food) cannot support exponential population or economic growth... global average service temperature is
 risings with energy consumption in contrast to nature, photosynthesis, and so on.*
 
-And I feel drawn to the Super capitalist philanthropists promising relief, as Buffett, the Gates, Scott, Bloomberg... and of course the good activists are also hanging around here.
-Amnesty International, Doctors Without Borders, King Ocean Seat up, Human Rights Watch, Greenpeace
-Worldwide Fund, Court for America.
-All these these people arguments, products companies, NGOs, they all embrace the world with their
-frequency numbers and they propel the tokens of the 20th century resident.
+And I feel drawn to the Super capitalist philanthropists promising relief, as Buffett, the Gates, Scott, Bloomberg... and of course the good activists are also hanging around here:
+Amnesty International, Doctors Without Borders, King Ocean Seat up, Human Rights Watch, Greenpeace, Worldwide Fund, Court for America.
 
+### 7 The Undead 
 
-And so this is interesting that we have super nice minds and sets of of words now and they have
-a special temp taste.
-The temperament 
+All these people arguments, products companies, NGOs, they all embrace the world with their frequency numbers and they propel the tokens of the 20th century.
 
-racism focus critique gender Internet human modernity guy kid supportivity activist
-paradigm governance phone worry scenario router... ontology highlight website mainstream archive,
-modernist video sexuality overview depiction artwork modality heterosexual populist tourism
-neuropsychology, field work phenotype, which in fact are inventions of the 20th century.
-As these frequency as a frequency number say, these tokens do not know the past time, but they show
-up with shouting images like this if you go for example with racism.
+And so this is interesting that we have super nice minds and sets of words now and they have a special temp taste. 
+The temperament.
 
-unlike some mature 19th
-century tokens.
+*racism, focus, critique, gender, Internet, humans, modernity, guy, kid, supportivity, activist, paradigm, governance, phone, worry, scenario, router, dick, ontology, highlight, website, mainstream, archive, 
+modernist, video, sexuality, overview, depiction, artwork, modality, heterosexual, populist, tourism, neuropsychology, fieldwork, phenotype...*
 
-So again, another frequencies and they are they're meeting other birds with surprisingly different
+which in fact are inventions of the 20th century.
+As these frequency number say. 
+
+These tokens do not know the past times, but they show
+up with shouting images. 
+if you go for example with racism.
+
+unlike the mature 19th century tokens.
+
+another frequencies and they are meeting other words with surprisingly different
 friends.
 
-And now you look at the temperament here.
+And now you look at the temperament here. It's just by numbers.
 
-It's just by numbers.
+*Race, comes instead of racism with marriage, with coat, lake, needle, sister, person, opposition, silence, observation, measure, crime, goose, youth, intelligence, circle, boat, fiddle, rain, bird, liberal song, garden, grammar, year, snow, argument, instance, bride, casket, translator, visit, rider, extreme, imagination, distance tower, morning distinction, success, language and wish.*
 
-*Race comes instead of racism comes with marriage with code, lake, needle, sister person, opposition, silence, observation, measure, crime, goose, youth, intelligence, circle, boat, fiddle, rain, bird, liberal song, garden, grammar, year, snow, argument, instance, bride, casket, translator, visit, rider, extreme imagination, distance tower, morning distinction, success, language and wish.*
+And whose images echo the quite nobility of the 19th century. 
 
-And whose images echo the quite nobility of the 19th century, which what a striking reference
-difference, the silent images of the 19th century and the shoutings of the 20th century.
+what a striking difference!
+the silent images of the 19th century and the shoutings of the 20th century.
 
-The token race is silent, racism is shouting, but even if the tongue now it's getting complicated,
-but even if these tokens are shouting, the images are still fading away, because their images, all
-the images fade away...
+The token race is silent, racism is shouting. 
 
-they do not.
+but even if these tokens are shouting, the images are still fading away, because their images, all the images fade away...
 
-So whatever images are, they do not conceal the fact that the large numbers of the 20th century are
+
+they do not conceal the fact that the large numbers of the 20th century are
 beyond the imagination.
-So there are numbers which are with the imagination and there are numbers which are beyond
-imagination.
+So there are numbers which are with the imagination and there are numbers which are beyond imagination.
 
-**For example, beyond imagination is communication works with 200 million meters per second. The processor had 200 billion transistors. Global computing power is 10 powers 25 FLOPS 2025 generates 180 billion terabytes of data. That's beyond anything.**
+**For example, beyond imagination is communication works with 200 million meters per second. The processor had 200 billion transistors. Global computing power is 10 powers 25 FLOPS 2025. generates 180 billion terabytes of data. That's beyond anything.**
 
 These images are afraid of these numbers.
-They prefer to remain within the realm of time, not willing to die.
-They don't want to leave time.
+They prefer to remain within the realm of time, not willing to die. They stay undead and cannot enter the stage of space.
 
-They stay undead and cannot enter the stage of space.
+It would be such a relief if social media would give up the simple detached and undead:
 
-It would be such a relief and social media if social media would give up the simple detached and undead.
+*I like it.
+I don't like it.*
 
-I like it.
-I don't like it and switch to an involved and vivid.
+and switch to an involved and vivid.
 
 
-I like that.
+I like that I like. 
 
-I like, I like that I don't like I don't like that I don't like I don't like that I like.
+I like that I don't like. 
 
-This would be great always 2 times and then I'm involved and then it's very, very clear the undead, they don't like that they like it and makes makes a lot of complications seductively appear everywhere and make you afraid of the voices from behind loud and undead.
+I don't like that I don't like. 
+
+I don't like that I like.
+
+
+This would be great, always 2 thumbs, and then I'm involved, and then it's very clear: the undead, they don't like that they like it. This makes a lot of complications, seductively appear everywhere and make you afraid of the voices from behind loud and undead.
 
 As Valentino campaign AI Atavras make selling fashion.
+
 So it's fascinating, but they're undead.
 
 ### 8 Language Games
 
 Here I Meet Wittgenstein and now listen to this sentence:
 
-*The word is all That is the case... The limits of my language means the limits of my world... Whereof I cannot speak, thereof one must be silent.* 
+*The word is all that is the case... The limits of my language means the limits of my world... Whereof I cannot speak, thereof one must be silent.* 
 Tractatus, 1921
 
 Language, like imagination, fades towards entropic horizon of peaceful silence.
@@ -724,15 +718,13 @@ There's only this one, and there's one that came to in mind.
 Somewhat surprising at first, but when?
 When?
 But then increasingly convincing.
-It is just the token of money.
+**It is just a token of money.**
 So don't take it too serious.
 Everything is kind of absurd, but take it serious.
 And it's surprising how these things turn around.
 That's an inconvenient point.
 
-I don't want to be to this, to be pushed into the corner of mere naivety.
-
-These are things by they call me naive or infantile at the age of above 50.
+I don't want to be pushed into the corner of mere naivety. These are things that they call me naive or infantile at the age of over 50.
 
 Today, imagination plays innocent around nature and energy, which gives comfort.
 
@@ -740,19 +732,17 @@ Money, in contrast, plays guilty.
 
 Yes, money comes as power, and this power is out of control.
 It's money.
-The responsibility of this power is reflected back on us and cannot be delegated to the necessities
-of nature.
+The responsibility of this power is reflected back on us and cannot be delegated to the necessities of nature.
 
 
 This is as liberating as uncomfortable.
 This term does not mean that I ignore the limits of growth.
-I just do not expect help from tokens within these limits, or in both terms.
+I just do not expect help from tokens within these limits, or in both terms:
 Energy and nature are not powerful enough to play an adequate game today.
 
-So to relax this and make it algebraic, I make this game and to set up take A for energy and take B for money.
+So to relax this and make it algebraic, I make this game and set up take A for energy and take B for money.
 A powers the birds, B makes them fly.
 A is arithmetic, B is algebraic.
-
 
 So I'm turning from the linear consumption of 600 extra Joule of A to the circulation of 100 trillion dollars of B per year, and follow B's arguments with the same conviction that I'm used to do with A.
 
@@ -767,26 +757,31 @@ This is what in former terms of farmers used to make their living with and susta
 
 Therefore, we have green cities and sustainability there because it runs along the lines of necessities.
 
+
 The remaining 40 trillions are surplus and correspond to the profit of the landlords and former times.
 
 This is a source of power and can be can be invested for anything.
 This is circular political money.
 In earlier times, a 10th of this money went to the king or the government as rent, not a tax. Taxes divide on economic money and should be spent sustainable respectively.
 
-Linear rent is on a political money and circular and numbers of 10s of 10s is 4 trillion a year globally, which is 1000 times as a budget of United Nations and it would be 30 billion a year for a country like Switzerland equals 20 times of budget of ETH or three billions just for city like Vienna.
-Not for consumption, maintenance, investments, education, just to practice the skills needed to navigate this planet formally.
-The turbulences into word.
-Is it for consciousness?
+Linear rent is on a political money and circular and numbers of 10s of 10s is 4 trillion a year globally, which is 1000 times as a budget of United Nations and it would be 30 billion a year for a country like Switzerland equals 20 times of budget of ETH, or three billion just for a city like Vienna.
+
+Not for consumption, maintenance, investments, education. 
+
+Just to practice the skills needed to navigate this planet. 
+Forming the turbulences into vertices of consciousness. 
 
 This is breathtaking, literally.
-
-We are rich and we do not know that.
+We are rich.
+and we do not know that.
 We do not have the words from beyond.
 We are not liberated.
 
 ### 11 Give Power a Face
 
-Here they enter, the old masters of architecture: because they had been able to give power a public face. a face that people can agree on.
+Here they enter, the old masters of architecture: because they had been able to give power a public face. 
+a face that people can agree on.
+
 Not to fight power, this would be the lost game of enlightenment and revolution, but to make people aware. make them to live with their power, with responsibility of consciousness.
 following the tokens of humanism and Renaissance.
 
@@ -796,7 +791,7 @@ Now I look around for the faces of power today.
 They're nowhere and everywhere.
 The Musk, Page, Gates, Prince Zuckerberg, Bezos, and they look like this.
 He's actually living there most days of his life.
-What can be a place for them? beside hiding behind walls, provoking in media or a disruptive, deceitful
+What can be a place for them? beside hiding behind walls, provoking in media or a disruptive, deceitful:
 "I'm just like you."
 
 We have no idea.
