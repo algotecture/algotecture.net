@@ -2,40 +2,37 @@
 
 inspired by the farewell lecture of Ludger Hoverstadt.
 
+*The willingness to reflect.*
+
 ## Hello
 
-We are exposed to the technology and what we are currently witnessing gives us no reason to relax.
-On the contrary, the situation is escalating, but there's no way around.
-What I miss is the willingness to reflect.
-First there's always a defence, then the dam breaks.
+We are exposed to the technology, and we're seeing no reason to relax.
+The situation is escalating, and there is no way around.
+
+What is missing is the willingness to reflect. First, there's always a defence, then the dam breaks.
+
 There's never enough thinking, not beforehand, not afterwards.
 **Technology is either refused as a threat or taken as given, mostly by the same people.**
-That resistance to understand thing of both sides is alien to me, but it's the source of my
+That resistance to understanding things from both sides is alien to me, but it's the source of my
 independence and intellectual equity that refuses to be confined, which is provoking to the common
 sense and easily appears arrogant.
 
 
-I also struggled to acknowledge this technology races ahead on a highway while it's accept
-applications and architecture.
+I also struggled to acknowledge this technology races ahead on a highway while it accepts applications and architecture.
 
 
-### After 10 years...
-
-This approach found a level of saturation.
+**After 10 years** this approach found a level of saturation.
 We learnt that IT works very radically, always and everywhere the same.
-We were not longer confronted with the question of how to solve a problem, but how to get data, tons
-of data, when needed.
+We were no longer confronted with the question of how to solve a problem, but how to get data, tons of data, when needed.
 
 This is where we faced massive resistance from the established markets.
-That was a fight against windmills.
-It was also the time when the new colleagues at ETH began to take computer seriously and gain their
-own experience. We made a step back and questioned what is going on.
 
-We turn to birds, principle, computer science, mathematics, philosophy, matching, architectural
-theory.
+It was also the time when the new colleagues at ETH began to take computers seriously and gain their own experience. We made a step back and questioned what was going on.
+
+We turned towards principal computer science, mathematics, and philosophy, matching architectural theory.
 
 ### Fritz Haller
-the Swiss architect  Fritz Haller -- the **MANIERIST** among **Functionalists**. 
+The Swiss architect Fritz Haller - the **MANIERIST** among **Functionalists**. 
 He has turned every known construction around and created his generic **NODE**
 wich is **ALL** of the known constructions **NOT**.
 
