@@ -266,33 +266,23 @@ This very humanistic idea.
 
 I think we are turning from a digital renaissance towards a Baroque.
 
-with a voice connected to the world in liberation from the
-conflicts around.
+with a voice connected to the world in liberation from the conflicts around.
 
 Of course, it's bold to take on the Borgian Predator-Princes (Bolsonaro, Bukele,
-Milei, MbS, Trump) assaulting our society for increasingly successful raids.
+Milei, MbS, Trump) assaulting our society with increasingly successful raids.
 
 But what can be done?
 
-There are the furious sharpenings of Yanis Varoufakis, the Know It All smiles of Mersheimer, the moral
-therapies of Jeffrey Sachs, the the disturbing analysis of employee, and so on.
-And they have hundreds of them.
-
-They rose to prominence, addressing pressing problems, 
+There are the furious sharpenings of Yanis Varoufakis, the Know-It-All smiles of Mearsheimer, the moral therapies of Jeffrey Sachs, the disturbing analysis of Giuliano da Empoli... They rose to prominence, addressing pressing problems.
 Yet their solutions are exclusive, meeting the expectations of the audiences.
-Such solutions will fail as their contractor victory in detail and no major view emerges.
-On the contrary, the more views they are, the more contradictory they get.
+Such solutions will fail as their contractor victory in detail and no major view emerges. On the contrary, the more views they are, the more contradictory they get.
+And we have to admit that the Predator-Princes they are right to criticise, already operate beyond these criticisms, so we can't get them like this.
 
-And we have to admit that the predatory Princess they are right to the they are right to criticise
-already operates beyond this limit.
-So they're already beyond these criticisms.
-So you can't get them like this.
-This text is different, it tries not to get involved.
+This text is different; it tries not to get involved.
 There's no right or good, it will not stick to problems and it will not present solutions.
+My approach is architectural and it is generous because it does not decide, and it does not exclude. 
 
-My approach is architectural and it is generous because it does not decide and it does not exclude. 
-
-At the price of complexity.
+**At the price of complexity.**
 
 Here I want to show how far I'm able to go.
 The endeavour will be fast, complicated and confusing.
@@ -300,69 +290,61 @@ You will be not able to understand it, because it's not meant to be understood.
 This text is climatic, it embraces the condition.
 Try to get the temperament.
 It will show a path to a civilised global coexistence.
-And that's exactly what I think **architecture** is about.
+And that's exactly what **architecture** is about.
 
 So first, nice paradox.
 
-### You Can't Improve by Doing Better
+### 1 You Can't Improve by Doing Better
 
-I'm upset. the war in Europe it does not stop.
-Escalate the whole world in quarantine for three months plus U.S.
-President threatening on daily base elites, powers and The Dirty secrets.
-Bombing rights.
+I'm upset! 
 
-Get natural media reporting but are not reporting but hallucinating.
-
-And then this increasing number, the profit of $1 million per employee at meter 80,000 employees making 80 billion profit a year.
+The war in Europe which does not stop, but escalates... a whole world in quarantine for three months plus U.S. President threatening on daily base elites, powers and The Dirty secrets. Bombing rights. Get natural media reporting but are not reporting but hallucinating. And then this increasing number, the profit of $1 million per employee at meter 80,000 employees making 80 billion profit a year.
 This is another society, just this is wrong threatening.
+
+
 I'm talking as a European.
 It must be similar at other places.
 Amhara, Mali, Gaza, Lebanon, Libya, Kivu, Mexico, Syria, Sudan.
-Yeah, my arguments are clashing and things are getting dangerous.
 
+
+Arguments are clashing and things are getting dangerous.
 They want me to get involved.
 
 I don't.
 
 They want me, my colour, my gender, my nation as an argument.
 
-
 It's getting cramped.
-
 
 I look around the Internet to search and enlarge language models.
 
 
 What are the clashes?
 
-
 Terrorism, energy sources, social justice, cybersecurity, globalization, disruption, polarisation,
-inequality, poverty, health crisis, human rights, protectionism, corruption, privacy, limit of
-growth, singularity.
+inequality, poverty, health crisis, human rights, protectionism, corruption, privacy, limit of growth, and singularity.
 I can easily find hundreds of these.
-They all sound the same, with a biocratic and technocratic taste, made by experts and protected by
-legions.
+
+They all sound the same, with a biocratic and technocratic taste, made by experts and protected by legions.
 This is a rough condition.
 It feels like bad weather.
 I cannot see any shelter anywhere.
 I feel exposed and fainted.
 
 
-There should be a reason for this.
-Condition.
+There should be a reason for this Condition.
 How do I start?
-What about the media bias, Lack of activities and the terrorism.
-Diversity, fake news, corporate influence, lack of coverage, polarisation, diversiveness,
-accountability, research and universities, Lack of diversity, applicability, protection, bias,
-opportunism, funding, conflict of interest, excess of the data, Open Access, ethics, independence.
-I'm beginning to realise that it is total the tools, instruments, analysis, operations, environment,
-the climate, the temperament, the science and media, the enterprise, the politicians, the NGOs, the world's language, argumentations and debates.
+What about the media bias, Lack of activities and the terrorism, diversity, fake news, corporate influence, lack of coverage, polarisation, diversiveness,
+accountability, research and universities, Lack of diversity, applicability, protection, bias, opportunism, funding, conflict of interest, excess of the data, Open Access, ethics, independence. 
 
+I'm beginning to realise that it is total, the tools, instruments, analysis, operations, environment, the climate, the temperament, the science and media, the enterprise, the politicians, the NGOs, the world's language, argumentations and debates.
 Imagining, planning, doing, thinking.
 Me, you, everybody, the cultures, history, the arts, everything is part of the same.
-I hesitate to use the word problem.
+I hesitate to use the word **problem**.
 Everything, everybody, every argument faces the same paradox.
-You can't improve by doing better.
+
+**You can't improve by doing better.**
+
 We are doomed.
 
 ### 2nd Paradox
@@ -370,12 +352,12 @@ We are doomed.
 I'm still looking for a common ground.
 Things are connected like never before.
 I'm friend of a friend of a friend of almost every person on this planet.
-I say hi to Maradona, Angela Merkel, Barack Obama, Yvukachenko, the astronaut, a billionaire is a
-movie star, the Saint, the sniper.
+I say hi to Maradona, Angela Merkel, Barack Obama, Selensky, the astronaut, a billionaire is a movie star, the Saint, the sniper.
 Also, every argument is proven right and wrong in a few steps.
 Lean proteins are healthy.
-Smoking kills migrants.
-Take your job.
+Smoking kills. 
+
+migrants Take your job.
 Urbanization increases pollution.
 If we don't want to talk about Israel.
 No peace without weapons.
@@ -383,50 +365,28 @@ No peace without weapons.
 Saddam Hussein and the chemical weapons.
 Do I make things more complicated than they are?
 Look at my fridge.
-It's empty, the sun is shining, it's 1123, I'm hungry, My baby made the first step to  of the
-dog in my garden.
-But still things are true and false.
-Yes and no.
+It's empty, the sun is shining, it's 11:23, I'm hungry, My baby made the first step... 
+the dog shits in my garden...
 
-Left and right, black and white, hot and cold, hot and soft, spicy and mild.
 
-Visible and not.
+...But NO...
+things still are...
 
-Paradox, 
+true-and.false, Yes-and-No, Left-and-right, black-and-white, hot-and-cold, hot-and-soft, spicy-and-mild, Visible-and-not.
+
+...**Paradox**
 that's the word for it.
-Here's it again.
 
-The tricky turn, tricky light, the infinite.
+
+Here's it again. The tricky turm, tricky like the **infinite**.
 
 It is an inverse friend.
+The infinite is with the horizon far away:
 
-The infinite is with the horizon far away.
-
-Then it's better than perfect.
-
-And there is the mass.
-
-The mass.
-
-Mastery came through games, comes through iterations.
-
-It's not infinite, but infinitely improvable.
-
-One breath at a time.
-
-Zero starts a line.
-
-Infinity writes the poem.
-
-Trust in God, but your camel 1st.
-
-And so on and so on.
-
-A hundreds of them.
-
-You know how it works, You just have to take it.
-
-Siri ist paradox.
+Done is better than perfect...
+Embrace the mess; Mastery cames through iteration... it's not infinite, but infinitive improvable... One breath at a time.
+Zero starts a line; Infinity writes the poem...
+Trust in God, but your camel first.
 
 And that's invest to it and you have hundreds of them as well.
 
@@ -435,10 +395,11 @@ Easy a whole book of it, if you like.
 A paradox is a labyrinthine and end this puzzle right here, **present but not there**, so close yet so far.
 
 Can see the forest for the trees.
-The more you look, the less you see the journey is a destination.
-So or you can't improve by doing better something like this.
+The more you look, the less you see, the journey is a destination.
 
-### Absurd
+you can't improve by doing better something like this.
+
+### 3 Absurd
 
 if only a few things are connected.
 I mean, this is good enough arguments can be true or false, but an environment without bounds we all where all things are connected.
