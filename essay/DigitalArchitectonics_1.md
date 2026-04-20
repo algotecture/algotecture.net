@@ -30,9 +30,8 @@ It was also the time when the new colleagues at ETH began to take computers seri
 
 We turned towards principal computer science, mathematics, and philosophy, matching architectural theory.
 
-___
 
-## NOT
+### NOT
 
 The Swiss architect **Fritz Haller** - the **MANIERIST** among **Functionalists**. 
 He has turned every known construction around and created his generic **NODE**
@@ -46,7 +45,7 @@ It is a POINT, a ZERO, an ATOM, an ELEMENT, a RENAISSANCE.
 
 **ARCHITECTURE is born from it.**
 
-It took me at least three years to grasp the significance of this simple code - SOM by Kohonen:
+It took me at least three years to grasp the significance of this simple code:
 
 ```mathematica
 For[u = 0, u <= ite, u++,
@@ -60,46 +59,7 @@ For[u = 0, u <= ite, u++,
 ]
 ```
 
-**Python equivalent (NumPy-style)** of a **Self-Organizing Map (SOM)** update loop. Here’s a reasonably faithful Python version using `numpy`:
-
-```python
-import numpy as np
-
-for u in range(ite + 1):
-    # sigma decay
-    sig = (1 - (u / (ite + 1))) * (max(dim) / 2)
-
-    # random sampling
-    inputN = vec[np.random.choice(len(vec), sel)]
-
-    # find BMUs (nearest weight indices)
-    # assuming weights shape: (somLen, features)
-    dists = np.linalg.norm(weights[None, :, :] - inputN[:, None, :], axis=2)
-    bmus = np.argmin(dists, axis=1)
-
-    # neighborhood function (Gaussian)
-    ns = np.exp(-(distances[bmus] ** 2) / (2 * sig ** 2))
-
-    allNS = np.sum(ns, axis=0)
-    nst = ns.T
-
-    # update weights
-    new_weights = []
-    for i in range(somLen):
-        numerator = np.sum(inputN * nst[i][:, None], axis=0)
-        new_weights.append(numerator / allNS[i])
-
-    weights = np.array(new_weights)
-```
-**Notes (important)**
-
-* `distances` must already exist as something like a grid-distance matrix between neurons.
-* `weights` is typically shape `(somLen, feature_dim)`.
-* `vec` is your dataset.
-* `Nearest` in Mathematica maps to `argmin` over Euclidean distance in Python.
-
-
-This AI code, of Kohonan 1982 is a little poem called a Self Organising Map,
+This AI code, of Kohonan 1982, is a little poem called a Self Organising Map,
 incorporates and forgets **EVERYthing** to be able to face **ANYthing**.
 
 
@@ -120,26 +80,6 @@ step[r_, k_] :=
     ]
   ];
 ```
-
-
-Python equivalent (NumPy)
-
-```python id="x9v2lm"
-import numpy as np
-
-def step_iter(r, M2, tp, alpha, tol, maxIter):
-    for k in range(maxIter):
-        rNext = alpha * (M2 @ r) + (1 - alpha) * tp
-
-        if np.linalg.norm(rNext - r, ord=1) < tol:
-            return rNext / np.sum(rNext)
-
-        r = rNext
-
-    return r / np.sum(r)
-```
-They made a trillion-dollar worth company with this thing.
-___
 
 
 **Artificial Intelligence** is not about **LEARNING**, it is an inversion of it. 
