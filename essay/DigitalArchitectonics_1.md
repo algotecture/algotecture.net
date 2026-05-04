@@ -17,7 +17,7 @@ independence and intellectual equity that refuses to be confined, which is provo
 sense and easily appears arrogant.
 
 
-I also struggled to acknowledge this technology races ahead on a highway while it accepts applications and architecture.
+I also struggled to acknowledge that this technology races ahead on a highway while it accepts applications and architecture.
 
 
 **After 10 years** this approach found a level of saturation.
@@ -823,8 +823,7 @@ and also both of them know.
 
 I travelled to other places 
 
-about 20 trillion of the world's 120 trillion is circulates around the
-token common.
+about 20 trillion of the world's 120 trillion circulates around the token common.
 
 The expanding it's territory by production and doing better.
 
@@ -833,29 +832,27 @@ It's sacred places of the common sounds around global golden objects of massivit
 
 The politics of the common is done by the people operating in public.
 
-I don't think, for example, that this arena of 5000 people with the CCP in China has anything to do with our parliament.
-It's just a misreading and we have to look with these kind of structures to, to get an understanding
-for, for what what is going on, how they make politics.
-It's performing pretty well and it can't be without competition and so on.
-And then competing different like us, it's completely in a completely different way.
+I don't think that this arena of 5000 people with the CCP in China has anything to do with our parliament.
+It's just a misreading and we have to look with these kinds of structures to get an understanding
+for what what is going on, how they make politics.
+It's performing pretty well and it can't be without competition.
+And then competing in a completely different way.
 And we're able to fold it.
-We're able to go into mechanics which is algebraic to be able to get into communication with them, which Elias Zafiris called **natural communication**.
+We're able to go into mechanics which is algebraic to get into communication with them, which Elias Zafiris called **natural communication**.
 
 
-The con is established in technocracies and threatened by the individual, which appears as unique events and bright sunlight.
+The common is established in technocracies and threatened by the individual, which appears as unique events and bright sunlight.
 
-So we have to take that series that I really don't like it. as I don't like this obedience of the Hitler Youth.
-It must be something like that.
+So we have to take that seriously, I really don't like it, as I don't like this obedience of the Hitler Youth.
 We have to accept this problem, and we have to accept that the devil is always with us.
 You can't be without the devil.
 Otherwise, objects are not complete.
 
 People of the common come back home, lightweight and wealthy.
 to places dissolving in ritualistic forms 
-
 and I bow for them, because they also know.
 
-And here we are now, as architects in 2027, trying to give a face to the turbulences of our connected planet. Everything is there all at once, but not here.
+And here we are now, as architects in 2026, trying to give a face to the turbulences of our connected planet. Everything is there all at once, but not here.
 
 We look at the old.
 
